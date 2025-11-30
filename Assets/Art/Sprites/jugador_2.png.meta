@@ -1,0 +1,2444 @@
+fileFormatVersion: 2
+guid: 9a528fd1ba6dfb84883ca7930d7b2028
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5154695726804389342
+    second: jugador_2_0
+  - first:
+      213: 3945919633607993603
+    second: jugador_2_1
+  - first:
+      213: 6412983187528778048
+    second: jugador_2_2
+  - first:
+      213: -9155946946400982204
+    second: jugador_2_3
+  - first:
+      213: 7441410711371543248
+    second: jugador_2_4
+  - first:
+      213: 5118765136545663368
+    second: jugador_2_5
+  - first:
+      213: -8263178970897174260
+    second: jugador_2_6
+  - first:
+      213: -1145284298015754830
+    second: jugador_2_7
+  - first:
+      213: 798007339519583761
+    second: jugador_2_8
+  - first:
+      213: -8334232768896460400
+    second: jugador_2_9
+  - first:
+      213: 8744236730268405965
+    second: jugador_2_10
+  - first:
+      213: -1923767001722306697
+    second: jugador_2_11
+  - first:
+      213: 1666418111331497449
+    second: jugador_2_12
+  - first:
+      213: 5041999192402188312
+    second: jugador_2_13
+  - first:
+      213: -859929833007096796
+    second: jugador_2_14
+  - first:
+      213: -7129285545314221741
+    second: jugador_2_15
+  - first:
+      213: 8695694434402191134
+    second: jugador_2_16
+  - first:
+      213: -1805909378271568334
+    second: jugador_2_17
+  - first:
+      213: -7747601353467279071
+    second: jugador_2_18
+  - first:
+      213: -8257425339266969598
+    second: jugador_2_19
+  - first:
+      213: 2137470246472909995
+    second: jugador_2_20
+  - first:
+      213: 6191305622811424562
+    second: jugador_2_21
+  - first:
+      213: 8690065593386874441
+    second: jugador_2_22
+  - first:
+      213: -4206448575292680122
+    second: jugador_2_23
+  - first:
+      213: 1030938126549914249
+    second: jugador_2_24
+  - first:
+      213: 2186207927052308249
+    second: jugador_2_25
+  - first:
+      213: 8846062600534893052
+    second: jugador_2_26
+  - first:
+      213: -4482610558228594321
+    second: jugador_2_27
+  - first:
+      213: 2166172489733603978
+    second: jugador_2_28
+  - first:
+      213: -149727702832673244
+    second: jugador_2_29
+  - first:
+      213: -8949135285169751351
+    second: jugador_2_30
+  - first:
+      213: 8426847142458214831
+    second: jugador_2_31
+  - first:
+      213: 6903530576274558135
+    second: jugador_2_32
+  - first:
+      213: -4983926843000844153
+    second: jugador_2_33
+  - first:
+      213: 5274149135386691979
+    second: jugador_2_34
+  - first:
+      213: -7560971508414275662
+    second: jugador_2_35
+  - first:
+      213: 6734878959511885360
+    second: jugador_2_36
+  - first:
+      213: 1507550795044304768
+    second: jugador_2_37
+  - first:
+      213: -3534142664367181255
+    second: jugador_2_38
+  - first:
+      213: -1014825157071425376
+    second: jugador_2_39
+  - first:
+      213: -7808360300054412707
+    second: jugador_2_40
+  - first:
+      213: -7819994476268675220
+    second: jugador_2_41
+  - first:
+      213: -2937915358220342917
+    second: jugador_2_42
+  - first:
+      213: -7850496297907864191
+    second: jugador_2_43
+  - first:
+      213: -1519465143675837131
+    second: jugador_2_44
+  - first:
+      213: 3084666306539354584
+    second: jugador_2_45
+  - first:
+      213: -4710193567004958923
+    second: jugador_2_46
+  - first:
+      213: -247283265955855746
+    second: jugador_2_47
+  - first:
+      213: 7230979519666893471
+    second: jugador_2_48
+  - first:
+      213: 7007913768642615980
+    second: jugador_2_49
+  - first:
+      213: 3979382220362616144
+    second: jugador_2_50
+  - first:
+      213: 7871018972365496901
+    second: jugador_2_51
+  - first:
+      213: 1476222100240104507
+    second: jugador_2_52
+  - first:
+      213: -177860468822089893
+    second: jugador_2_53
+  - first:
+      213: 882071259907828056
+    second: jugador_2_54
+  - first:
+      213: 1971181063079945078
+    second: jugador_2_55
+  - first:
+      213: 1441771852838258734
+    second: jugador_2_56
+  - first:
+      213: 3558754904819121580
+    second: jugador_2_57
+  - first:
+      213: -3507066470975671126
+    second: jugador_2_58
+  - first:
+      213: 5987748894099616685
+    second: jugador_2_59
+  - first:
+      213: 8723170709321638467
+    second: jugador_2_60
+  - first:
+      213: -2998849785832282323
+    second: jugador_2_61
+  - first:
+      213: 8836484379901382646
+    second: jugador_2_62
+  - first:
+      213: 3610183250852244731
+    second: jugador_2_63
+  - first:
+      213: -6398383508020030198
+    second: jugador_2_64
+  - first:
+      213: -8139941174065198551
+    second: jugador_2_65
+  - first:
+      213: -7031857325637902210
+    second: jugador_2_66
+  - first:
+      213: -2546495890352057978
+    second: jugador_2_67
+  - first:
+      213: -229470466607478981
+    second: jugador_2_68
+  - first:
+      213: -4492255673352006687
+    second: jugador_2_69
+  - first:
+      213: -3827353755027850155
+    second: jugador_2_70
+  - first:
+      213: -7527780208475439268
+    second: jugador_2_71
+  - first:
+      213: -4839548474604533993
+    second: jugador_2_72
+  - first:
+      213: 6617194249486020919
+    second: jugador_2_73
+  - first:
+      213: 5938419089936643383
+    second: jugador_2_74
+  - first:
+      213: 7813170429489322999
+    second: jugador_2_75
+  - first:
+      213: 6214915809631283381
+    second: jugador_2_76
+  - first:
+      213: -648728141777822390
+    second: jugador_2_77
+  - first:
+      213: -3742103651001701647
+    second: jugador_2_78
+  - first:
+      213: -5271521137218170100
+    second: jugador_2_79
+  - first:
+      213: -3612701774202835906
+    second: jugador_2_80
+  - first:
+      213: 8174597829426847631
+    second: jugador_2_81
+  - first:
+      213: -8911259080002972093
+    second: jugador_2_82
+  - first:
+      213: -7806737567228862917
+    second: jugador_2_83
+  - first:
+      213: 2208245458650509622
+    second: jugador_2_84
+  - first:
+      213: -3237807789401658988
+    second: jugador_2_85
+  - first:
+      213: -5920491636915575791
+    second: jugador_2_86
+  - first:
+      213: 7478884604931965150
+    second: jugador_2_87
+  - first:
+      213: 2948908795814190741
+    second: jugador_2_88
+  - first:
+      213: -4832447493892064357
+    second: jugador_2_89
+  - first:
+      213: 4937661582990395867
+    second: jugador_2_90
+  - first:
+      213: -2275456051570563592
+    second: jugador_2_91
+  - first:
+      213: 7543744242371785160
+    second: jugador_2_92
+  - first:
+      213: 8726925142798527146
+    second: jugador_2_93
+  - first:
+      213: -7267240043725255019
+    second: jugador_2_94
+  - first:
+      213: 396564890890547418
+    second: jugador_2_95
+  - first:
+      213: 2632474939047304460
+    second: jugador_2_96
+  - first:
+      213: -6503095737623483301
+    second: jugador_2_97
+  - first:
+      213: -6848521514432913803
+    second: jugador_2_98
+  - first:
+      213: 5396074559799345846
+    second: jugador_2_99
+  - first:
+      213: 5519705166729515869
+    second: jugador_2_100
+  - first:
+      213: 8911779689651400611
+    second: jugador_2_101
+  - first:
+      213: 7372764709537739058
+    second: jugador_2_102
+  - first:
+      213: -2647848477848395197
+    second: jugador_2_103
+  - first:
+      213: -6017068587631046685
+    second: jugador_2_104
+  - first:
+      213: -1327644711745505083
+    second: jugador_2_105
+  - first:
+      213: -6902131428844859144
+    second: jugador_2_106
+  - first:
+      213: 1320300170212233402
+    second: jugador_2_107
+  - first:
+      213: -1218140991757801570
+    second: jugador_2_108
+  - first:
+      213: 7128004033874604985
+    second: jugador_2_109
+  - first:
+      213: 6358415770747865961
+    second: jugador_2_110
+  - first:
+      213: 2328134392107297956
+    second: jugador_2_111
+  - first:
+      213: -6957559097110512808
+    second: jugador_2_112
+  - first:
+      213: 7423258346187565196
+    second: jugador_2_113
+  - first:
+      213: 3839365565408377878
+    second: jugador_2_114
+  - first:
+      213: -7932010440812661804
+    second: jugador_2_115
+  - first:
+      213: 1136760009848091809
+    second: jugador_2_116
+  - first:
+      213: 2271025739857393047
+    second: jugador_2_117
+  - first:
+      213: -2989366275873414741
+    second: jugador_2_118
+  - first:
+      213: 5262068700829686961
+    second: jugador_2_119
+  - first:
+      213: -2269601495229890648
+    second: jugador_2_120
+  - first:
+      213: -6225394382942001040
+    second: jugador_2_121
+  - first:
+      213: -3493631363997018792
+    second: jugador_2_122
+  - first:
+      213: 7904372749055612282
+    second: jugador_2_123
+  - first:
+      213: -8446745514528025103
+    second: jugador_2_124
+  - first:
+      213: 2761711544254011762
+    second: jugador_2_125
+  - first:
+      213: -5646350798441442971
+    second: jugador_2_126
+  - first:
+      213: 1811895838943217287
+    second: jugador_2_127
+  - first:
+      213: -5661557271342589094
+    second: jugador_2_128
+  - first:
+      213: 2502814728635508472
+    second: jugador_2_129
+  - first:
+      213: 3918029893007827320
+    second: jugador_2_130
+  - first:
+      213: 4879441064933149704
+    second: jugador_2_131
+  - first:
+      213: -8716985909422327549
+    second: jugador_2_132
+  - first:
+      213: -2477724730658062114
+    second: jugador_2_133
+  - first:
+      213: -2345478440446325917
+    second: jugador_2_134
+  - first:
+      213: -8500942130310476949
+    second: jugador_2_135
+  - first:
+      213: -6149118997462633656
+    second: jugador_2_136
+  - first:
+      213: 2111953156570730600
+    second: jugador_2_137
+  - first:
+      213: 8232223746368516434
+    second: jugador_2_138
+  - first:
+      213: 1291767595353114252
+    second: jugador_2_139
+  - first:
+      213: 2416751201165941151
+    second: jugador_2_140
+  - first:
+      213: -4257966056064142442
+    second: jugador_2_141
+  - first:
+      213: 2640703472161970533
+    second: jugador_2_142
+  - first:
+      213: -2608136331539914723
+    second: jugador_2_143
+  - first:
+      213: 1479387466712900098
+    second: jugador_2_144
+  - first:
+      213: -5714785556522310922
+    second: jugador_2_145
+  - first:
+      213: -7383234696571181677
+    second: jugador_2_146
+  - first:
+      213: -2883878337369805113
+    second: jugador_2_147
+  - first:
+      213: -4007629573589091972
+    second: jugador_2_148
+  - first:
+      213: 1149234547790597852
+    second: jugador_2_149
+  - first:
+      213: 4507760229378973658
+    second: jugador_2_150
+  - first:
+      213: -5576700951857887930
+    second: jugador_2_151
+  - first:
+      213: 4636505173444143327
+    second: jugador_2_152
+  - first:
+      213: 1738970005599445770
+    second: jugador_2_153
+  - first:
+      213: -1087274664692582798
+    second: jugador_2_154
+  - first:
+      213: -611329953190580167
+    second: jugador_2_155
+  - first:
+      213: -6986778708668815874
+    second: jugador_2_156
+  - first:
+      213: -4954885037125853365
+    second: jugador_2_157
+  - first:
+      213: -4560063122296748132
+    second: jugador_2_158
+  - first:
+      213: 4482563827199914107
+    second: jugador_2_159
+  - first:
+      213: 355519707395434544
+    second: jugador_2_160
+  - first:
+      213: -6024760931313923069
+    second: jugador_2_161
+  - first:
+      213: 7144061566224044750
+    second: jugador_2_162
+  - first:
+      213: 7688020107883281631
+    second: jugador_2_163
+  - first:
+      213: -6038263433873437830
+    second: jugador_2_164
+  - first:
+      213: 2599499584096310993
+    second: jugador_2_165
+  - first:
+      213: 5467119702998377246
+    second: jugador_2_166
+  - first:
+      213: -4409780633251581566
+    second: jugador_2_167
+  - first:
+      213: 3920584884360587360
+    second: jugador_2_168
+  - first:
+      213: 6814195367057828087
+    second: jugador_2_169
+  - first:
+      213: -2740741419031885048
+    second: jugador_2_170
+  - first:
+      213: 1277260278687348971
+    second: jugador_2_171
+  - first:
+      213: 3749044165476800640
+    second: jugador_2_172
+  - first:
+      213: 523327134298169054
+    second: jugador_2_173
+  - first:
+      213: 1404159785062207793
+    second: jugador_2_174
+  - first:
+      213: -6864000508784751223
+    second: jugador_2_175
+  - first:
+      213: 5990608083525309005
+    second: jugador_2_176
+  - first:
+      213: -9134074124924788920
+    second: jugador_2_177
+  - first:
+      213: 3691731553454245910
+    second: jugador_2_178
+  - first:
+      213: -336029377248451092
+    second: jugador_2_179
+  - first:
+      213: -1917830757389239253
+    second: jugador_2_180
+  - first:
+      213: -451942095442149703
+    second: jugador_2_181
+  - first:
+      213: -267778005814463540
+    second: jugador_2_182
+  - first:
+      213: 2285412735193727752
+    second: jugador_2_183
+  - first:
+      213: 8380388361687620953
+    second: jugador_2_184
+  - first:
+      213: -7334223486410912708
+    second: jugador_2_185
+  - first:
+      213: 4185052138736818025
+    second: jugador_2_186
+  - first:
+      213: 5627810052065888247
+    second: jugador_2_187
+  - first:
+      213: 4178009889946247164
+    second: jugador_2_188
+  - first:
+      213: 4471115854365669042
+    second: jugador_2_189
+  - first:
+      213: 1216084751552222525
+    second: jugador_2_190
+  - first:
+      213: -2886632525860681505
+    second: jugador_2_191
+  - first:
+      213: -7570628434264402676
+    second: jugador_2_192
+  - first:
+      213: 8118752767272564647
+    second: jugador_2_193
+  - first:
+      213: -1686510823529134458
+    second: jugador_2_194
+  - first:
+      213: 4679072865839604003
+    second: jugador_2_195
+  - first:
+      213: -2003334439764544286
+    second: jugador_2_196
+  - first:
+      213: 5644457423235160882
+    second: jugador_2_197
+  - first:
+      213: 1142742454130029414
+    second: jugador_2_198
+  - first:
+      213: 2932353111132462474
+    second: jugador_2_199
+  - first:
+      213: -6294940917787339966
+    second: jugador_2_200
+  - first:
+      213: 4803699752620471030
+    second: jugador_2_201
+  - first:
+      213: 8293957163417598863
+    second: jugador_2_202
+  - first:
+      213: 7428026392873395271
+    second: jugador_2_203
+  - first:
+      213: 6918564848065144712
+    second: jugador_2_204
+  - first:
+      213: -2558727537507789766
+    second: jugador_2_205
+  - first:
+      213: -3847708443458853234
+    second: jugador_2_206
+  - first:
+      213: 3367086554160765805
+    second: jugador_2_207
+  - first:
+      213: -5905063353348259013
+    second: jugador_2_208
+  - first:
+      213: -5540596086414216015
+    second: jugador_2_209
+  - first:
+      213: 4526513974447201875
+    second: jugador_2_210
+  - first:
+      213: 301373474749361507
+    second: jugador_2_211
+  - first:
+      213: 2748763512563619857
+    second: jugador_2_212
+  - first:
+      213: 131194387453714941
+    second: jugador_2_213
+  - first:
+      213: 423037429047694775
+    second: jugador_2_214
+  - first:
+      213: 5304863069662696223
+    second: jugador_2_215
+  - first:
+      213: 8588561306336284914
+    second: jugador_2_216
+  - first:
+      213: -3284995852678235808
+    second: jugador_2_217
+  - first:
+      213: -1530376140975069265
+    second: jugador_2_218
+  - first:
+      213: -9192556709896056514
+    second: jugador_2_219
+  - first:
+      213: -7354971296731825521
+    second: jugador_2_220
+  - first:
+      213: -1227448834309797723
+    second: jugador_2_221
+  - first:
+      213: -4293209054483308429
+    second: jugador_2_222
+  - first:
+      213: 7802762974639148394
+    second: jugador_2_223
+  - first:
+      213: -5254616590928310138
+    second: jugador_2_224
+  - first:
+      213: -2383833366780915149
+    second: jugador_2_225
+  - first:
+      213: -3725035998655614685
+    second: jugador_2_226
+  - first:
+      213: -6212716626130858409
+    second: jugador_2_227
+  - first:
+      213: -9016664872660070987
+    second: jugador_2_228
+  - first:
+      213: -1259362486301054685
+    second: jugador_2_229
+  - first:
+      213: -2446671712135780468
+    second: jugador_2_230
+  - first:
+      213: -8066066640247132527
+    second: jugador_2_231
+  - first:
+      213: 4178960609469567647
+    second: jugador_2_232
+  - first:
+      213: 6632199147877868600
+    second: jugador_2_233
+  - first:
+      213: 2889495128508713910
+    second: jugador_2_234
+  - first:
+      213: 5388881885329495956
+    second: jugador_2_235
+  - first:
+      213: -5627018499438177008
+    second: jugador_2_236
+  - first:
+      213: -322160489216521646
+    second: jugador_2_237
+  - first:
+      213: -2176412720784866925
+    second: jugador_2_238
+  - first:
+      213: 154008888197001362
+    second: jugador_2_239
+  - first:
+      213: -1437192726775153986
+    second: jugador_2_240
+  - first:
+      213: 5535605998354530898
+    second: jugador_2_241
+  - first:
+      213: 1391124061427590959
+    second: jugador_2_242
+  - first:
+      213: -8388301590070194202
+    second: jugador_2_243
+  - first:
+      213: -5292247436055501130
+    second: jugador_2_244
+  - first:
+      213: -6309031005771985931
+    second: jugador_2_245
+  - first:
+      213: -2351647279483829662
+    second: jugador_2_246
+  - first:
+      213: 3527941575989412758
+    second: jugador_2_247
+  - first:
+      213: 8504878032447558705
+    second: jugador_2_248
+  - first:
+      213: -32141798445991518
+    second: jugador_2_249
+  - first:
+      213: 5510662037655731957
+    second: jugador_2_250
+  - first:
+      213: -1466831570926565009
+    second: jugador_2_251
+  - first:
+      213: 4084830884785529198
+    second: jugador_2_252
+  - first:
+      213: 6116338381200214023
+    second: jugador_2_253
+  - first:
+      213: 6230388633661028673
+    second: jugador_2_254
+  - first:
+      213: -7321138349003971922
+    second: jugador_2_255
+  - first:
+      213: 1376667075820269746
+    second: jugador_2_256
+  - first:
+      213: -5186856813245680814
+    second: jugador_2_257
+  - first:
+      213: -3942124844230815221
+    second: jugador_2_258
+  - first:
+      213: 7975405319479984603
+    second: jugador_2_259
+  - first:
+      213: 6552938658653990005
+    second: jugador_2_260
+  - first:
+      213: -5653879591004063953
+    second: jugador_2_261
+  - first:
+      213: 7861921847211649636
+    second: jugador_2_262
+  - first:
+      213: 4085414076159977849
+    second: jugador_2_263
+  - first:
+      213: 759798500053380591
+    second: jugador_2_264
+  - first:
+      213: 9158349579331629947
+    second: jugador_2_265
+  - first:
+      213: 707800483594744164
+    second: jugador_2_266
+  - first:
+      213: -7710725407932232494
+    second: jugador_2_267
+  - first:
+      213: -7911166996910102232
+    second: jugador_2_268
+  - first:
+      213: -2945958861669203706
+    second: jugador_2_269
+  - first:
+      213: 6921132852375269706
+    second: jugador_2_270
+  - first:
+      213: -2189068825998920697
+    second: jugador_2_271
+  - first:
+      213: 2874604090967540181
+    second: jugador_2_272
+  - first:
+      213: -4095342433140106505
+    second: jugador_2_273
+  - first:
+      213: -4762255305274299750
+    second: jugador_2_274
+  - first:
+      213: -4048206561658139985
+    second: jugador_2_275
+  - first:
+      213: 9154967888707988512
+    second: jugador_2_276
+  - first:
+      213: -7181512461092018959
+    second: jugador_2_277
+  - first:
+      213: 2521430389114785748
+    second: jugador_2_278
+  - first:
+      213: -6375938382207329841
+    second: jugador_2_279
+  - first:
+      213: 1268116041289660369
+    second: jugador_2_280
+  - first:
+      213: 6591651573533046812
+    second: jugador_2_281
+  - first:
+      213: 8812097051933918212
+    second: jugador_2_282
+  - first:
+      213: 7050849163209117177
+    second: jugador_2_283
+  - first:
+      213: -4415040026855803315
+    second: jugador_2_284
+  - first:
+      213: 5682439885793478156
+    second: jugador_2_285
+  - first:
+      213: -1917574280011131472
+    second: jugador_2_286
+  - first:
+      213: -2214198122650186511
+    second: jugador_2_287
+  - first:
+      213: 1168267316481369813
+    second: jugador_2_288
+  - first:
+      213: 3916699113227868614
+    second: jugador_2_289
+  - first:
+      213: -197610373049253949
+    second: jugador_2_290
+  - first:
+      213: 5989129503529689536
+    second: jugador_2_291
+  - first:
+      213: -781267911396229765
+    second: jugador_2_292
+  - first:
+      213: -4988819696170343705
+    second: jugador_2_293
+  - first:
+      213: -2439144243418579789
+    second: jugador_2_294
+  - first:
+      213: -2758788427297820508
+    second: jugador_2_295
+  - first:
+      213: -6403847345994232311
+    second: jugador_2_296
+  - first:
+      213: -5867251356256158990
+    second: jugador_2_297
+  - first:
+      213: 11281630166203297
+    second: jugador_2_298
+  - first:
+      213: 3128144407281442773
+    second: jugador_2_299
+  - first:
+      213: 9011331170014461065
+    second: jugador_2_300
+  - first:
+      213: -3990354524034699599
+    second: jugador_2_301
+  - first:
+      213: -4140016310892019960
+    second: jugador_2_302
+  - first:
+      213: 6872211889765755626
+    second: jugador_2_303
+  - first:
+      213: 7713217454482066443
+    second: jugador_2_304
+  - first:
+      213: 2145623253308912454
+    second: jugador_2_305
+  - first:
+      213: 2086755193678236220
+    second: jugador_2_306
+  - first:
+      213: 6133119550802281836
+    second: jugador_2_307
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jugador_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 30
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746a59fcb4920094d8c33de2573beb49
+      internalID: 5154695726804389342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1152
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda85a30b8640d642aa69a12fe53f79f
+      internalID: 3945919633607993603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152
+        width: 30
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79052d1e927a89c4694dc0e7f644ecb4
+      internalID: 6412983187528778048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1152
+        width: 30
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21bb0e721457c94c9b86257598944a5
+      internalID: -9155946946400982204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 30
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2360cd6c9aecb254b990bfc86b5e12eb
+      internalID: 7441410711371543248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1152
+        width: 30
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a836b5f4d7a3c9c4dad116cc06adcca7
+      internalID: 5118765136545663368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd864a7fc7335c4183599407643112e
+      internalID: -8263178970897174260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1152
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49710d2942b89b409b53f47ed2b799e
+      internalID: -1145284298015754830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 32
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54dc7d47d018d24284b99d69643dd3a
+      internalID: 798007339519583761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1152
+        width: 32
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a793d99a77d8646a26750206c48436
+      internalID: -8334232768896460400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1152
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1c6947399c3d446a694815df9af24b
+      internalID: 8744236730268405965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1152
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c6a8180c6f8f440bac828eb1cf0a35
+      internalID: -1923767001722306697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_12
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1152
+        width: 30
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cca4f8e7a8f0ad488a406bc99333c8e
+      internalID: 1666418111331497449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_13
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1152
+        width: 30
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d253d6bb725164e4082a07ee5d322ec6
+      internalID: 5041999192402188312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_14
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1152
+        width: 30
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a93e6d832b75e45aac3997177da4ff
+      internalID: -859929833007096796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_15
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1152
+        width: 30
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee7a6ccfa8801244bf8903dbf4bf8bd
+      internalID: -7129285545314221741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_16
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1152
+        width: 30
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ca3f89941eb3f4ea00ed6f6b70a8e9
+      internalID: 8695694434402191134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_17
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1152
+        width: 30
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcd79b354abf9b4d87a0619b3428fa0
+      internalID: -1805909378271568334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1152
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05dc9aef5b161c48bfde0c108f159d6
+      internalID: -7747601353467279071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_19
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1152
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe2ef3b5ba6d11429278b9a77df32f0
+      internalID: -8257425339266969598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1152
+        width: 32
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c391da1383187d541a82c476dc263d9f
+      internalID: 2137470246472909995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_21
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1152
+        width: 32
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2806a7e650e4a4f9968d3dc08aeac6
+      internalID: 6191305622811424562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_22
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1152
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dcbcca67cccac49adc2ddc6e499cfc
+      internalID: 8690065593386874441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_23
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1152
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acebd6a79fd82e94a92f0c553b65cb17
+      internalID: -4206448575292680122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 30
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fbf8ed2b6d7a6498676f7144f3808b
+      internalID: 1030938126549914249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1090
+        width: 30
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3a509ca0faa9843ba35211442a47b2
+      internalID: 2186207927052308249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 30
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf240e9162c9338468d1deec764afb0f
+      internalID: 8846062600534893052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1088
+        width: 30
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cebe88bc19fd014aac918766d1fcca7
+      internalID: -4482610558228594321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1090
+        width: 30
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06667388b6d60f449c5a80b686d7847
+      internalID: 2166172489733603978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1088
+        width: 30
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843a8944f1f456b45ae35669b3389f5f
+      internalID: -149727702832673244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8434117f92ed7ea48b81d804b89b530c
+      internalID: -8949135285169751351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1088
+        width: 32
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c411a9abd229d1c4b9b2566e8b182083
+      internalID: 8426847142458214831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10040f0e1663154fbded9c19b575d5e
+      internalID: 6903530576274558135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1088
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f86f39e1fad934da94a3ae3e92ca36
+      internalID: -4983926843000844153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 32
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58eaaca26a0daf4cb28c08c659e4acf
+      internalID: 5274149135386691979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1088
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cda1d7ea11fa44eb06bbd30e090c5c
+      internalID: -7560971508414275662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_36
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1088
+        width: 30
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234c6a7f263aba540991843866b4f458
+      internalID: 6734878959511885360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_37
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1090
+        width: 30
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35db487921326a04c94aedfdcc5fb971
+      internalID: 1507550795044304768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_38
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1088
+        width: 30
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7e9d95c5f53e3449fefb0f6fba3a65
+      internalID: -3534142664367181255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_39
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1088
+        width: 30
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bff277d0c3166498d48ca0191b407a
+      internalID: -1014825157071425376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_40
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1090
+        width: 30
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e92e64d7c253434396d0a2cfd1253da
+      internalID: -7808360300054412707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_41
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1088
+        width: 30
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701bcff8d3d40304f85ef814a248c362
+      internalID: -7819994476268675220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_42
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1090
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59432d196edfc5b4795a640de31bbf22
+      internalID: -2937915358220342917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_43
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1088
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6f183e6ed08864688422d2fe8cb548
+      internalID: -7850496297907864191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_44
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1090
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df305a8364546244dbbcff7c85cf93e5
+      internalID: -1519465143675837131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_45
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1090
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd763c2cdbd3ec24e8b1b3a25d8fd798
+      internalID: 3084666306539354584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_46
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1088
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7945f49ad0d4f24ca843a4a3cc51a27
+      internalID: -4710193567004958923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_2_47
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1090
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f97c0acac4d5c4189a825a6188ea89
+      internalID: -247283265955855746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 56e9161d27e41604fbd2e1a96130fd5c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jugador_2_0: 5154695726804389342
+      jugador_2_1: 3945919633607993603
+      jugador_2_10: 8744236730268405965
+      jugador_2_100: 5519705166729515869
+      jugador_2_101: 8911779689651400611
+      jugador_2_102: 7372764709537739058
+      jugador_2_103: -2647848477848395197
+      jugador_2_104: -6017068587631046685
+      jugador_2_105: -1327644711745505083
+      jugador_2_106: -6902131428844859144
+      jugador_2_107: 1320300170212233402
+      jugador_2_108: -1218140991757801570
+      jugador_2_109: 7128004033874604985
+      jugador_2_11: -1923767001722306697
+      jugador_2_110: 6358415770747865961
+      jugador_2_111: 2328134392107297956
+      jugador_2_112: -6957559097110512808
+      jugador_2_113: 7423258346187565196
+      jugador_2_114: 3839365565408377878
+      jugador_2_115: -7932010440812661804
+      jugador_2_116: 1136760009848091809
+      jugador_2_117: 2271025739857393047
+      jugador_2_118: -2989366275873414741
+      jugador_2_119: 5262068700829686961
+      jugador_2_12: 1666418111331497449
+      jugador_2_120: -2269601495229890648
+      jugador_2_121: -6225394382942001040
+      jugador_2_122: -3493631363997018792
+      jugador_2_123: 7904372749055612282
+      jugador_2_124: -8446745514528025103
+      jugador_2_125: 2761711544254011762
+      jugador_2_126: -5646350798441442971
+      jugador_2_127: 1811895838943217287
+      jugador_2_128: -5661557271342589094
+      jugador_2_129: 2502814728635508472
+      jugador_2_13: 5041999192402188312
+      jugador_2_130: 3918029893007827320
+      jugador_2_131: 4879441064933149704
+      jugador_2_132: -8716985909422327549
+      jugador_2_133: -2477724730658062114
+      jugador_2_134: -2345478440446325917
+      jugador_2_135: -8500942130310476949
+      jugador_2_136: -6149118997462633656
+      jugador_2_137: 2111953156570730600
+      jugador_2_138: 8232223746368516434
+      jugador_2_139: 1291767595353114252
+      jugador_2_14: -859929833007096796
+      jugador_2_140: 2416751201165941151
+      jugador_2_141: -4257966056064142442
+      jugador_2_142: 2640703472161970533
+      jugador_2_143: -2608136331539914723
+      jugador_2_144: 1479387466712900098
+      jugador_2_145: -5714785556522310922
+      jugador_2_146: -7383234696571181677
+      jugador_2_147: -2883878337369805113
+      jugador_2_148: -4007629573589091972
+      jugador_2_149: 1149234547790597852
+      jugador_2_15: -7129285545314221741
+      jugador_2_150: 4507760229378973658
+      jugador_2_151: -5576700951857887930
+      jugador_2_152: 4636505173444143327
+      jugador_2_153: 1738970005599445770
+      jugador_2_154: -1087274664692582798
+      jugador_2_155: -611329953190580167
+      jugador_2_156: -6986778708668815874
+      jugador_2_157: -4954885037125853365
+      jugador_2_158: -4560063122296748132
+      jugador_2_159: 4482563827199914107
+      jugador_2_16: 8695694434402191134
+      jugador_2_160: 355519707395434544
+      jugador_2_161: -6024760931313923069
+      jugador_2_162: 7144061566224044750
+      jugador_2_163: 7688020107883281631
+      jugador_2_164: -6038263433873437830
+      jugador_2_165: 2599499584096310993
+      jugador_2_166: 5467119702998377246
+      jugador_2_167: -4409780633251581566
+      jugador_2_168: 3920584884360587360
+      jugador_2_169: 6814195367057828087
+      jugador_2_17: -1805909378271568334
+      jugador_2_170: -2740741419031885048
+      jugador_2_171: 1277260278687348971
+      jugador_2_172: 3749044165476800640
+      jugador_2_173: 523327134298169054
+      jugador_2_174: 1404159785062207793
+      jugador_2_175: -6864000508784751223
+      jugador_2_176: 5990608083525309005
+      jugador_2_177: -9134074124924788920
+      jugador_2_178: 3691731553454245910
+      jugador_2_179: -336029377248451092
+      jugador_2_18: -7747601353467279071
+      jugador_2_180: -1917830757389239253
+      jugador_2_181: -451942095442149703
+      jugador_2_182: -267778005814463540
+      jugador_2_183: 2285412735193727752
+      jugador_2_184: 8380388361687620953
+      jugador_2_185: -7334223486410912708
+      jugador_2_186: 4185052138736818025
+      jugador_2_187: 5627810052065888247
+      jugador_2_188: 4178009889946247164
+      jugador_2_189: 4471115854365669042
+      jugador_2_19: -8257425339266969598
+      jugador_2_190: 1216084751552222525
+      jugador_2_191: -2886632525860681505
+      jugador_2_192: -7570628434264402676
+      jugador_2_193: 8118752767272564647
+      jugador_2_194: -1686510823529134458
+      jugador_2_195: 4679072865839604003
+      jugador_2_196: -2003334439764544286
+      jugador_2_197: 5644457423235160882
+      jugador_2_198: 1142742454130029414
+      jugador_2_199: 2932353111132462474
+      jugador_2_2: 6412983187528778048
+      jugador_2_20: 2137470246472909995
+      jugador_2_200: -6294940917787339966
+      jugador_2_201: 4803699752620471030
+      jugador_2_202: 8293957163417598863
+      jugador_2_203: 7428026392873395271
+      jugador_2_204: 6918564848065144712
+      jugador_2_205: -2558727537507789766
+      jugador_2_206: -3847708443458853234
+      jugador_2_207: 3367086554160765805
+      jugador_2_208: -5905063353348259013
+      jugador_2_209: -5540596086414216015
+      jugador_2_21: 6191305622811424562
+      jugador_2_210: 4526513974447201875
+      jugador_2_211: 301373474749361507
+      jugador_2_212: 2748763512563619857
+      jugador_2_213: 131194387453714941
+      jugador_2_214: 423037429047694775
+      jugador_2_215: 5304863069662696223
+      jugador_2_216: 8588561306336284914
+      jugador_2_217: -3284995852678235808
+      jugador_2_218: -1530376140975069265
+      jugador_2_219: -9192556709896056514
+      jugador_2_22: 8690065593386874441
+      jugador_2_220: -7354971296731825521
+      jugador_2_221: -1227448834309797723
+      jugador_2_222: -4293209054483308429
+      jugador_2_223: 7802762974639148394
+      jugador_2_224: -5254616590928310138
+      jugador_2_225: -2383833366780915149
+      jugador_2_226: -3725035998655614685
+      jugador_2_227: -6212716626130858409
+      jugador_2_228: -9016664872660070987
+      jugador_2_229: -1259362486301054685
+      jugador_2_23: -4206448575292680122
+      jugador_2_230: -2446671712135780468
+      jugador_2_231: -8066066640247132527
+      jugador_2_232: 4178960609469567647
+      jugador_2_233: 6632199147877868600
+      jugador_2_234: 2889495128508713910
+      jugador_2_235: 5388881885329495956
+      jugador_2_236: -5627018499438177008
+      jugador_2_237: -322160489216521646
+      jugador_2_238: -2176412720784866925
+      jugador_2_239: 154008888197001362
+      jugador_2_24: 1030938126549914249
+      jugador_2_240: -1437192726775153986
+      jugador_2_241: 5535605998354530898
+      jugador_2_242: 1391124061427590959
+      jugador_2_243: -8388301590070194202
+      jugador_2_244: -5292247436055501130
+      jugador_2_245: -6309031005771985931
+      jugador_2_246: -2351647279483829662
+      jugador_2_247: 3527941575989412758
+      jugador_2_248: 8504878032447558705
+      jugador_2_249: -32141798445991518
+      jugador_2_25: 2186207927052308249
+      jugador_2_250: 5510662037655731957
+      jugador_2_251: -1466831570926565009
+      jugador_2_252: 4084830884785529198
+      jugador_2_253: 6116338381200214023
+      jugador_2_254: 6230388633661028673
+      jugador_2_255: -7321138349003971922
+      jugador_2_256: 1376667075820269746
+      jugador_2_257: -5186856813245680814
+      jugador_2_258: -3942124844230815221
+      jugador_2_259: 7975405319479984603
+      jugador_2_26: 8846062600534893052
+      jugador_2_260: 6552938658653990005
+      jugador_2_261: -5653879591004063953
+      jugador_2_262: 7861921847211649636
+      jugador_2_263: 4085414076159977849
+      jugador_2_264: 759798500053380591
+      jugador_2_265: 9158349579331629947
+      jugador_2_266: 707800483594744164
+      jugador_2_267: -7710725407932232494
+      jugador_2_268: -7911166996910102232
+      jugador_2_269: -2945958861669203706
+      jugador_2_27: -4482610558228594321
+      jugador_2_270: 6921132852375269706
+      jugador_2_271: -2189068825998920697
+      jugador_2_272: 2874604090967540181
+      jugador_2_273: -4095342433140106505
+      jugador_2_274: -4762255305274299750
+      jugador_2_275: -4048206561658139985
+      jugador_2_276: 9154967888707988512
+      jugador_2_277: -7181512461092018959
+      jugador_2_278: 2521430389114785748
+      jugador_2_279: -6375938382207329841
+      jugador_2_28: 2166172489733603978
+      jugador_2_280: 1268116041289660369
+      jugador_2_281: 6591651573533046812
+      jugador_2_282: 8812097051933918212
+      jugador_2_283: 7050849163209117177
+      jugador_2_284: -4415040026855803315
+      jugador_2_285: 5682439885793478156
+      jugador_2_286: -1917574280011131472
+      jugador_2_287: -2214198122650186511
+      jugador_2_288: 1168267316481369813
+      jugador_2_289: 3916699113227868614
+      jugador_2_29: -149727702832673244
+      jugador_2_290: -197610373049253949
+      jugador_2_291: 5989129503529689536
+      jugador_2_292: -781267911396229765
+      jugador_2_293: -4988819696170343705
+      jugador_2_294: -2439144243418579789
+      jugador_2_295: -2758788427297820508
+      jugador_2_296: -6403847345994232311
+      jugador_2_297: -5867251356256158990
+      jugador_2_298: 11281630166203297
+      jugador_2_299: 3128144407281442773
+      jugador_2_3: -9155946946400982204
+      jugador_2_30: -8949135285169751351
+      jugador_2_300: 9011331170014461065
+      jugador_2_301: -3990354524034699599
+      jugador_2_302: -4140016310892019960
+      jugador_2_303: 6872211889765755626
+      jugador_2_304: 7713217454482066443
+      jugador_2_305: 2145623253308912454
+      jugador_2_306: 2086755193678236220
+      jugador_2_307: 6133119550802281836
+      jugador_2_31: 8426847142458214831
+      jugador_2_32: 6903530576274558135
+      jugador_2_33: -4983926843000844153
+      jugador_2_34: 5274149135386691979
+      jugador_2_35: -7560971508414275662
+      jugador_2_36: 6734878959511885360
+      jugador_2_37: 1507550795044304768
+      jugador_2_38: -3534142664367181255
+      jugador_2_39: -1014825157071425376
+      jugador_2_4: 7441410711371543248
+      jugador_2_40: -7808360300054412707
+      jugador_2_41: -7819994476268675220
+      jugador_2_42: -2937915358220342917
+      jugador_2_43: -7850496297907864191
+      jugador_2_44: -1519465143675837131
+      jugador_2_45: 3084666306539354584
+      jugador_2_46: -4710193567004958923
+      jugador_2_47: -247283265955855746
+      jugador_2_48: 7230979519666893471
+      jugador_2_49: 7007913768642615980
+      jugador_2_5: 5118765136545663368
+      jugador_2_50: 3979382220362616144
+      jugador_2_51: 7871018972365496901
+      jugador_2_52: 1476222100240104507
+      jugador_2_53: -177860468822089893
+      jugador_2_54: 882071259907828056
+      jugador_2_55: 1971181063079945078
+      jugador_2_56: 1441771852838258734
+      jugador_2_57: 3558754904819121580
+      jugador_2_58: -3507066470975671126
+      jugador_2_59: 5987748894099616685
+      jugador_2_6: -8263178970897174260
+      jugador_2_60: 8723170709321638467
+      jugador_2_61: -2998849785832282323
+      jugador_2_62: 8836484379901382646
+      jugador_2_63: 3610183250852244731
+      jugador_2_64: -6398383508020030198
+      jugador_2_65: -8139941174065198551
+      jugador_2_66: -7031857325637902210
+      jugador_2_67: -2546495890352057978
+      jugador_2_68: -229470466607478981
+      jugador_2_69: -4492255673352006687
+      jugador_2_7: -1145284298015754830
+      jugador_2_70: -3827353755027850155
+      jugador_2_71: -7527780208475439268
+      jugador_2_72: -4839548474604533993
+      jugador_2_73: 6617194249486020919
+      jugador_2_74: 5938419089936643383
+      jugador_2_75: 7813170429489322999
+      jugador_2_76: 6214915809631283381
+      jugador_2_77: -648728141777822390
+      jugador_2_78: -3742103651001701647
+      jugador_2_79: -5271521137218170100
+      jugador_2_8: 798007339519583761
+      jugador_2_80: -3612701774202835906
+      jugador_2_81: 8174597829426847631
+      jugador_2_82: -8911259080002972093
+      jugador_2_83: -7806737567228862917
+      jugador_2_84: 2208245458650509622
+      jugador_2_85: -3237807789401658988
+      jugador_2_86: -5920491636915575791
+      jugador_2_87: 7478884604931965150
+      jugador_2_88: 2948908795814190741
+      jugador_2_89: -4832447493892064357
+      jugador_2_9: -8334232768896460400
+      jugador_2_90: 4937661582990395867
+      jugador_2_91: -2275456051570563592
+      jugador_2_92: 7543744242371785160
+      jugador_2_93: 8726925142798527146
+      jugador_2_94: -7267240043725255019
+      jugador_2_95: 396564890890547418
+      jugador_2_96: 2632474939047304460
+      jugador_2_97: -6503095737623483301
+      jugador_2_98: -6848521514432913803
+      jugador_2_99: 5396074559799345846
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

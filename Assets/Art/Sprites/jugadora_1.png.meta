@@ -1,0 +1,2488 @@
+fileFormatVersion: 2
+guid: fbd7c943ccb1d9d469ea380e383e7458
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 545423896341994314
+    second: jugadora_1_0
+  - first:
+      213: 6438180908158335807
+    second: jugadora_1_1
+  - first:
+      213: -6169241550945713955
+    second: jugadora_1_2
+  - first:
+      213: -8366572860343062604
+    second: jugadora_1_3
+  - first:
+      213: 1178145051358947883
+    second: jugadora_1_4
+  - first:
+      213: 4612413613440228898
+    second: jugadora_1_5
+  - first:
+      213: 6913809122048886783
+    second: jugadora_1_6
+  - first:
+      213: -1331473142162215999
+    second: jugadora_1_7
+  - first:
+      213: -3147306823337984262
+    second: jugadora_1_8
+  - first:
+      213: -4826913869708391889
+    second: jugadora_1_9
+  - first:
+      213: -8740435189653255986
+    second: jugadora_1_10
+  - first:
+      213: 1226609712997032732
+    second: jugadora_1_11
+  - first:
+      213: 2812367602650834410
+    second: jugadora_1_12
+  - first:
+      213: -2111605411315735310
+    second: jugadora_1_13
+  - first:
+      213: 5494546818952865981
+    second: jugadora_1_14
+  - first:
+      213: 7260958030366810008
+    second: jugadora_1_15
+  - first:
+      213: 970487538059296049
+    second: jugadora_1_16
+  - first:
+      213: 7141616752542971785
+    second: jugadora_1_17
+  - first:
+      213: -3171954111830635886
+    second: jugadora_1_18
+  - first:
+      213: 7012376045033716140
+    second: jugadora_1_19
+  - first:
+      213: 9040528587773925544
+    second: jugadora_1_20
+  - first:
+      213: 7787253911592768933
+    second: jugadora_1_21
+  - first:
+      213: 2534204832243890222
+    second: jugadora_1_22
+  - first:
+      213: 6072050013061496480
+    second: jugadora_1_23
+  - first:
+      213: 7382832796979377353
+    second: jugadora_1_24
+  - first:
+      213: 8128151592539024907
+    second: jugadora_1_25
+  - first:
+      213: 3853432940025370125
+    second: jugadora_1_26
+  - first:
+      213: -1004730980196820531
+    second: jugadora_1_27
+  - first:
+      213: 8470627296340865983
+    second: jugadora_1_28
+  - first:
+      213: 4009400058817852784
+    second: jugadora_1_29
+  - first:
+      213: -2250444896049009199
+    second: jugadora_1_30
+  - first:
+      213: -2686150508608947594
+    second: jugadora_1_31
+  - first:
+      213: -3854530478439330881
+    second: jugadora_1_32
+  - first:
+      213: -4456970089214548426
+    second: jugadora_1_33
+  - first:
+      213: 5291099042677892040
+    second: jugadora_1_34
+  - first:
+      213: 8917418536393334573
+    second: jugadora_1_35
+  - first:
+      213: 2394879243837425116
+    second: jugadora_1_36
+  - first:
+      213: -6207220217299120212
+    second: jugadora_1_37
+  - first:
+      213: -2631344220911658273
+    second: jugadora_1_38
+  - first:
+      213: -4284751235136836353
+    second: jugadora_1_39
+  - first:
+      213: 2692635729003846679
+    second: jugadora_1_40
+  - first:
+      213: -6928484732658201052
+    second: jugadora_1_41
+  - first:
+      213: -3076058410493441206
+    second: jugadora_1_42
+  - first:
+      213: 7766303558121710410
+    second: jugadora_1_43
+  - first:
+      213: 886034379912047755
+    second: jugadora_1_44
+  - first:
+      213: 6625314384623589291
+    second: jugadora_1_45
+  - first:
+      213: 6710750067673295342
+    second: jugadora_1_46
+  - first:
+      213: 2392215284088754020
+    second: jugadora_1_47
+  - first:
+      213: -6969415979889894418
+    second: jugadora_1_48
+  - first:
+      213: 5869664910535588680
+    second: jugadora_1_49
+  - first:
+      213: 8075543824854144740
+    second: jugadora_1_50
+  - first:
+      213: -5421079139311372761
+    second: jugadora_1_51
+  - first:
+      213: 3395680037487575773
+    second: jugadora_1_52
+  - first:
+      213: -5761857542807413671
+    second: jugadora_1_53
+  - first:
+      213: 6508145163035397317
+    second: jugadora_1_54
+  - first:
+      213: 3727346259100493220
+    second: jugadora_1_55
+  - first:
+      213: -5317154929618374360
+    second: jugadora_1_56
+  - first:
+      213: -6123322988095833385
+    second: jugadora_1_57
+  - first:
+      213: 3108007432762302883
+    second: jugadora_1_58
+  - first:
+      213: 8431302579912583280
+    second: jugadora_1_59
+  - first:
+      213: 570742635072113292
+    second: jugadora_1_60
+  - first:
+      213: -2615653844430674333
+    second: jugadora_1_61
+  - first:
+      213: -1631263924153240091
+    second: jugadora_1_62
+  - first:
+      213: -4718364247707775792
+    second: jugadora_1_63
+  - first:
+      213: 5930289670134276155
+    second: jugadora_1_64
+  - first:
+      213: -6551441977601565752
+    second: jugadora_1_65
+  - first:
+      213: -7196614101832485274
+    second: jugadora_1_66
+  - first:
+      213: -229357226556623489
+    second: jugadora_1_67
+  - first:
+      213: 6805741791885872916
+    second: jugadora_1_68
+  - first:
+      213: 4472029192080831541
+    second: jugadora_1_69
+  - first:
+      213: 4861107365165532301
+    second: jugadora_1_70
+  - first:
+      213: 4921182076793479365
+    second: jugadora_1_71
+  - first:
+      213: -4404261101781907283
+    second: jugadora_1_72
+  - first:
+      213: -5196793003746861233
+    second: jugadora_1_73
+  - first:
+      213: -6118102197720348562
+    second: jugadora_1_74
+  - first:
+      213: -140837889864692411
+    second: jugadora_1_75
+  - first:
+      213: -2858873061511531405
+    second: jugadora_1_76
+  - first:
+      213: -5474685582077289801
+    second: jugadora_1_77
+  - first:
+      213: 7333485555173538235
+    second: jugadora_1_78
+  - first:
+      213: 6191472234473904998
+    second: jugadora_1_79
+  - first:
+      213: 3700572432554015126
+    second: jugadora_1_80
+  - first:
+      213: -9222430837665242868
+    second: jugadora_1_81
+  - first:
+      213: 7645176741826129846
+    second: jugadora_1_82
+  - first:
+      213: 8679219340222479161
+    second: jugadora_1_83
+  - first:
+      213: 8642032701644454470
+    second: jugadora_1_84
+  - first:
+      213: -4535720701100225945
+    second: jugadora_1_85
+  - first:
+      213: -1266589040737600410
+    second: jugadora_1_86
+  - first:
+      213: -2990169518227378919
+    second: jugadora_1_87
+  - first:
+      213: 3185834783695317674
+    second: jugadora_1_88
+  - first:
+      213: 8244378898592731715
+    second: jugadora_1_89
+  - first:
+      213: 1721816657129222552
+    second: jugadora_1_90
+  - first:
+      213: -2726099623548297687
+    second: jugadora_1_91
+  - first:
+      213: -1337465216734321954
+    second: jugadora_1_92
+  - first:
+      213: 4321776337861030967
+    second: jugadora_1_93
+  - first:
+      213: 6193898449318243154
+    second: jugadora_1_94
+  - first:
+      213: -3998926581078308949
+    second: jugadora_1_95
+  - first:
+      213: 4285853807691187898
+    second: jugadora_1_96
+  - first:
+      213: 961047686491038712
+    second: jugadora_1_97
+  - first:
+      213: -3663334879212018871
+    second: jugadora_1_98
+  - first:
+      213: -3218324616264597362
+    second: jugadora_1_99
+  - first:
+      213: -4743512293465674660
+    second: jugadora_1_100
+  - first:
+      213: 5785691694595467802
+    second: jugadora_1_101
+  - first:
+      213: 2973383292942995708
+    second: jugadora_1_102
+  - first:
+      213: -1968082352346606831
+    second: jugadora_1_103
+  - first:
+      213: -4885267090774054152
+    second: jugadora_1_104
+  - first:
+      213: 1478097826676376733
+    second: jugadora_1_105
+  - first:
+      213: 5525103644022047737
+    second: jugadora_1_106
+  - first:
+      213: -5655053142503578119
+    second: jugadora_1_107
+  - first:
+      213: -147684761219038731
+    second: jugadora_1_108
+  - first:
+      213: -8595210331752668178
+    second: jugadora_1_109
+  - first:
+      213: -7966548411418873980
+    second: jugadora_1_110
+  - first:
+      213: -3250678185819984915
+    second: jugadora_1_111
+  - first:
+      213: -5791493865810627569
+    second: jugadora_1_112
+  - first:
+      213: -994434469904099737
+    second: jugadora_1_113
+  - first:
+      213: -7305513757593531144
+    second: jugadora_1_114
+  - first:
+      213: 4131882452923218504
+    second: jugadora_1_115
+  - first:
+      213: -8478178460382661821
+    second: jugadora_1_116
+  - first:
+      213: 8824049862889392834
+    second: jugadora_1_117
+  - first:
+      213: 6319261737312675419
+    second: jugadora_1_118
+  - first:
+      213: -7476454859325092500
+    second: jugadora_1_119
+  - first:
+      213: -2680658288286004909
+    second: jugadora_1_120
+  - first:
+      213: 4562714390117748182
+    second: jugadora_1_121
+  - first:
+      213: 4819414395638705403
+    second: jugadora_1_122
+  - first:
+      213: -6243428341023022843
+    second: jugadora_1_123
+  - first:
+      213: -3020765475223460837
+    second: jugadora_1_124
+  - first:
+      213: -2999085067622458034
+    second: jugadora_1_125
+  - first:
+      213: 377209346334021963
+    second: jugadora_1_126
+  - first:
+      213: 8061433459559655467
+    second: jugadora_1_127
+  - first:
+      213: 434954239699882312
+    second: jugadora_1_128
+  - first:
+      213: -7348944680498629487
+    second: jugadora_1_129
+  - first:
+      213: -7663337897041078752
+    second: jugadora_1_130
+  - first:
+      213: -9078632279383900091
+    second: jugadora_1_131
+  - first:
+      213: 8642130545721530645
+    second: jugadora_1_132
+  - first:
+      213: 397556209200636408
+    second: jugadora_1_133
+  - first:
+      213: 4094280569875243765
+    second: jugadora_1_134
+  - first:
+      213: -2418188648905274435
+    second: jugadora_1_135
+  - first:
+      213: 1982020353996056681
+    second: jugadora_1_136
+  - first:
+      213: -5654987626389317689
+    second: jugadora_1_137
+  - first:
+      213: -7215850514697816392
+    second: jugadora_1_138
+  - first:
+      213: -2647765788384936019
+    second: jugadora_1_139
+  - first:
+      213: -855386169953762795
+    second: jugadora_1_140
+  - first:
+      213: 4223813730899615726
+    second: jugadora_1_141
+  - first:
+      213: -9159567103603341374
+    second: jugadora_1_142
+  - first:
+      213: -4742801636865104869
+    second: jugadora_1_143
+  - first:
+      213: 2311580475387846717
+    second: jugadora_1_144
+  - first:
+      213: 1992687224796915144
+    second: jugadora_1_145
+  - first:
+      213: 4412325539322892989
+    second: jugadora_1_146
+  - first:
+      213: -3935905962070381285
+    second: jugadora_1_147
+  - first:
+      213: 3997195184243435029
+    second: jugadora_1_148
+  - first:
+      213: -5923219759139246276
+    second: jugadora_1_149
+  - first:
+      213: 3973036018951097778
+    second: jugadora_1_150
+  - first:
+      213: 4988245897797327319
+    second: jugadora_1_151
+  - first:
+      213: 6659809837466421799
+    second: jugadora_1_152
+  - first:
+      213: -7145319323680695523
+    second: jugadora_1_153
+  - first:
+      213: -3017890912553321731
+    second: jugadora_1_154
+  - first:
+      213: 7385340924861959353
+    second: jugadora_1_155
+  - first:
+      213: 5582040477932517753
+    second: jugadora_1_156
+  - first:
+      213: 544729878799123545
+    second: jugadora_1_157
+  - first:
+      213: 475981292947136269
+    second: jugadora_1_158
+  - first:
+      213: 6353204072950971145
+    second: jugadora_1_159
+  - first:
+      213: 3352705960739758753
+    second: jugadora_1_160
+  - first:
+      213: -2342740712129262533
+    second: jugadora_1_161
+  - first:
+      213: -1908796017164360241
+    second: jugadora_1_162
+  - first:
+      213: -2770252754676285647
+    second: jugadora_1_163
+  - first:
+      213: 1589237005413332588
+    second: jugadora_1_164
+  - first:
+      213: -7175880621338164720
+    second: jugadora_1_165
+  - first:
+      213: -6905454673872171561
+    second: jugadora_1_166
+  - first:
+      213: -3141155737892940619
+    second: jugadora_1_167
+  - first:
+      213: 8253550175223275611
+    second: jugadora_1_168
+  - first:
+      213: -5549052614084034591
+    second: jugadora_1_169
+  - first:
+      213: 8207064920225273225
+    second: jugadora_1_170
+  - first:
+      213: -372312955383630525
+    second: jugadora_1_171
+  - first:
+      213: -4113579466905180504
+    second: jugadora_1_172
+  - first:
+      213: 6116448447556100211
+    second: jugadora_1_173
+  - first:
+      213: 7582129108301511835
+    second: jugadora_1_174
+  - first:
+      213: -1571139473279579711
+    second: jugadora_1_175
+  - first:
+      213: -657404990743648300
+    second: jugadora_1_176
+  - first:
+      213: 550269783250640956
+    second: jugadora_1_177
+  - first:
+      213: 3198078722345987711
+    second: jugadora_1_178
+  - first:
+      213: 7163051621928448792
+    second: jugadora_1_179
+  - first:
+      213: 2887896969243884700
+    second: jugadora_1_180
+  - first:
+      213: -2058998140452546402
+    second: jugadora_1_181
+  - first:
+      213: 1442515252371454767
+    second: jugadora_1_182
+  - first:
+      213: 1512040271569883479
+    second: jugadora_1_183
+  - first:
+      213: -1419604259058661756
+    second: jugadora_1_184
+  - first:
+      213: -8521848968004224725
+    second: jugadora_1_185
+  - first:
+      213: -6274575503679621116
+    second: jugadora_1_186
+  - first:
+      213: 8223296047122369482
+    second: jugadora_1_187
+  - first:
+      213: -4778278515459135582
+    second: jugadora_1_188
+  - first:
+      213: -5842928040396872362
+    second: jugadora_1_189
+  - first:
+      213: 5238863497218772642
+    second: jugadora_1_190
+  - first:
+      213: -1632462368115745445
+    second: jugadora_1_191
+  - first:
+      213: -6548747958082796282
+    second: jugadora_1_192
+  - first:
+      213: -3864384083156071206
+    second: jugadora_1_193
+  - first:
+      213: 8356562766132507067
+    second: jugadora_1_194
+  - first:
+      213: 1639486480089255826
+    second: jugadora_1_195
+  - first:
+      213: 7396522331785951161
+    second: jugadora_1_196
+  - first:
+      213: -3881317226035312797
+    second: jugadora_1_197
+  - first:
+      213: 9109548875564349276
+    second: jugadora_1_198
+  - first:
+      213: 8709934260637347121
+    second: jugadora_1_199
+  - first:
+      213: 102548492909211966
+    second: jugadora_1_200
+  - first:
+      213: 1843703304293705044
+    second: jugadora_1_201
+  - first:
+      213: 8004153540841035844
+    second: jugadora_1_202
+  - first:
+      213: 3662780582059042335
+    second: jugadora_1_203
+  - first:
+      213: 4384689097628642854
+    second: jugadora_1_204
+  - first:
+      213: -6122597897063189578
+    second: jugadora_1_205
+  - first:
+      213: -7718748501938416726
+    second: jugadora_1_206
+  - first:
+      213: 1673589898016939741
+    second: jugadora_1_207
+  - first:
+      213: 3038613542442514604
+    second: jugadora_1_208
+  - first:
+      213: -8232230036506921198
+    second: jugadora_1_209
+  - first:
+      213: 1492261712402828040
+    second: jugadora_1_210
+  - first:
+      213: 940469613087224264
+    second: jugadora_1_211
+  - first:
+      213: -5475389296162605891
+    second: jugadora_1_212
+  - first:
+      213: 7970037917124136088
+    second: jugadora_1_213
+  - first:
+      213: -4961968587162141121
+    second: jugadora_1_214
+  - first:
+      213: -4632706096884222854
+    second: jugadora_1_215
+  - first:
+      213: 7954063400334287686
+    second: jugadora_1_216
+  - first:
+      213: -5039332056949176090
+    second: jugadora_1_217
+  - first:
+      213: 4013564401533121317
+    second: jugadora_1_218
+  - first:
+      213: -7007548735015303175
+    second: jugadora_1_219
+  - first:
+      213: -4349718039924089355
+    second: jugadora_1_220
+  - first:
+      213: 4240000274698232716
+    second: jugadora_1_221
+  - first:
+      213: -6180552439400105842
+    second: jugadora_1_222
+  - first:
+      213: 5115919958770561548
+    second: jugadora_1_223
+  - first:
+      213: 6232765215046243455
+    second: jugadora_1_224
+  - first:
+      213: -3885606280086988993
+    second: jugadora_1_225
+  - first:
+      213: 2829811570219317474
+    second: jugadora_1_226
+  - first:
+      213: -5216566846217405097
+    second: jugadora_1_227
+  - first:
+      213: 4643927673379424699
+    second: jugadora_1_228
+  - first:
+      213: 5366085009874666029
+    second: jugadora_1_229
+  - first:
+      213: 3535499283059754551
+    second: jugadora_1_230
+  - first:
+      213: -3231557595644002317
+    second: jugadora_1_231
+  - first:
+      213: -2153446837514194005
+    second: jugadora_1_232
+  - first:
+      213: 567766044977402625
+    second: jugadora_1_233
+  - first:
+      213: -193748746955602991
+    second: jugadora_1_234
+  - first:
+      213: 4772574862957666978
+    second: jugadora_1_235
+  - first:
+      213: 8559636561939428509
+    second: jugadora_1_236
+  - first:
+      213: -4918410194666868865
+    second: jugadora_1_237
+  - first:
+      213: -7483300775602860991
+    second: jugadora_1_238
+  - first:
+      213: 6880731229825949591
+    second: jugadora_1_239
+  - first:
+      213: 7616494978293618689
+    second: jugadora_1_240
+  - first:
+      213: 8358818605398668318
+    second: jugadora_1_241
+  - first:
+      213: -4685408472791561210
+    second: jugadora_1_242
+  - first:
+      213: 9157126225141542241
+    second: jugadora_1_243
+  - first:
+      213: -7481097927466037075
+    second: jugadora_1_244
+  - first:
+      213: -2884268249938857389
+    second: jugadora_1_245
+  - first:
+      213: 4207289425399875805
+    second: jugadora_1_246
+  - first:
+      213: -4653516382520070998
+    second: jugadora_1_247
+  - first:
+      213: 4089049762825458748
+    second: jugadora_1_248
+  - first:
+      213: -5086750627230208892
+    second: jugadora_1_249
+  - first:
+      213: 2159750641539100340
+    second: jugadora_1_250
+  - first:
+      213: 4535804668698159877
+    second: jugadora_1_251
+  - first:
+      213: -4698751414162299681
+    second: jugadora_1_252
+  - first:
+      213: -5569226878303947427
+    second: jugadora_1_253
+  - first:
+      213: -4951146331786327787
+    second: jugadora_1_254
+  - first:
+      213: 5496780694179248875
+    second: jugadora_1_255
+  - first:
+      213: -8210148999617102646
+    second: jugadora_1_256
+  - first:
+      213: -2078982871825407098
+    second: jugadora_1_257
+  - first:
+      213: -7990470054834244877
+    second: jugadora_1_258
+  - first:
+      213: -6205398577634594123
+    second: jugadora_1_259
+  - first:
+      213: -1867490172727043145
+    second: jugadora_1_260
+  - first:
+      213: -4342356992712631913
+    second: jugadora_1_261
+  - first:
+      213: -275048195641741134
+    second: jugadora_1_262
+  - first:
+      213: -3788143578104162239
+    second: jugadora_1_263
+  - first:
+      213: -3029293982126121461
+    second: jugadora_1_264
+  - first:
+      213: 9098025487641426555
+    second: jugadora_1_265
+  - first:
+      213: -8415211464817898428
+    second: jugadora_1_266
+  - first:
+      213: 1665332267618672841
+    second: jugadora_1_267
+  - first:
+      213: -2893330191367911571
+    second: jugadora_1_268
+  - first:
+      213: -7100891327488040804
+    second: jugadora_1_269
+  - first:
+      213: 5304531385396343338
+    second: jugadora_1_270
+  - first:
+      213: -814127240691226018
+    second: jugadora_1_271
+  - first:
+      213: 721213397639641792
+    second: jugadora_1_272
+  - first:
+      213: 1391379729255560688
+    second: jugadora_1_273
+  - first:
+      213: 5904992531069697830
+    second: jugadora_1_274
+  - first:
+      213: 9138682701991820788
+    second: jugadora_1_275
+  - first:
+      213: 152174069347630637
+    second: jugadora_1_276
+  - first:
+      213: 8181255069375852330
+    second: jugadora_1_277
+  - first:
+      213: -9039685530450036078
+    second: jugadora_1_278
+  - first:
+      213: -4778605765579028329
+    second: jugadora_1_279
+  - first:
+      213: 4195610141579662907
+    second: jugadora_1_280
+  - first:
+      213: 6253463421526044164
+    second: jugadora_1_281
+  - first:
+      213: -5988402000032471851
+    second: jugadora_1_282
+  - first:
+      213: 5937465061802449140
+    second: jugadora_1_283
+  - first:
+      213: -2395329122927289188
+    second: jugadora_1_284
+  - first:
+      213: 3108643454509943445
+    second: jugadora_1_285
+  - first:
+      213: -760415351221969415
+    second: jugadora_1_286
+  - first:
+      213: 2827470755690991654
+    second: jugadora_1_287
+  - first:
+      213: -5972783225716738993
+    second: jugadora_1_288
+  - first:
+      213: 3682262740468167142
+    second: jugadora_1_289
+  - first:
+      213: 7030286159592561986
+    second: jugadora_1_290
+  - first:
+      213: 109392270526430927
+    second: jugadora_1_291
+  - first:
+      213: -3772532675267769804
+    second: jugadora_1_292
+  - first:
+      213: 1576668280699553179
+    second: jugadora_1_293
+  - first:
+      213: 3169431922149503722
+    second: jugadora_1_294
+  - first:
+      213: -8447365126370344825
+    second: jugadora_1_295
+  - first:
+      213: 1484567208958693011
+    second: jugadora_1_296
+  - first:
+      213: -2707522273039261411
+    second: jugadora_1_297
+  - first:
+      213: 7242067928777747964
+    second: jugadora_1_298
+  - first:
+      213: -3411269222692308833
+    second: jugadora_1_299
+  - first:
+      213: 1114006260400583483
+    second: jugadora_1_300
+  - first:
+      213: 4455250645987132698
+    second: jugadora_1_301
+  - first:
+      213: -5305671611405007478
+    second: jugadora_1_302
+  - first:
+      213: -7027804071447055357
+    second: jugadora_1_303
+  - first:
+      213: -6889748279699708583
+    second: jugadora_1_304
+  - first:
+      213: 4279570434082655476
+    second: jugadora_1_305
+  - first:
+      213: -3645493264005270537
+    second: jugadora_1_306
+  - first:
+      213: 7971671792509823469
+    second: jugadora_1_307
+  - first:
+      213: -4340424109564819901
+    second: jugadora_1_308
+  - first:
+      213: 7849466989748510825
+    second: jugadora_1_309
+  - first:
+      213: 2857252550004106412
+    second: jugadora_1_310
+  - first:
+      213: 4366401685298534208
+    second: jugadora_1_311
+  - first:
+      213: 6089693722880762581
+    second: jugadora_1_312
+  - first:
+      213: 5138238167466495662
+    second: jugadora_1_313
+  - first:
+      213: 4587037372558345724
+    second: jugadora_1_314
+  - first:
+      213: -8712592160552530179
+    second: jugadora_1_315
+  - first:
+      213: 3806191233596313561
+    second: jugadora_1_316
+  - first:
+      213: 8376716365892335600
+    second: jugadora_1_317
+  - first:
+      213: -4191175776241938104
+    second: jugadora_1_318
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jugadora_1_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1152
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd7ef14b3c9f1b4991ba39f949f69ff
+      internalID: 545423896341994314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1152
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065fe04fddb6c10479ab82d19a83828a
+      internalID: 6438180908158335807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1152
+        width: 28
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170b1c425d081164c82137a5e4545198
+      internalID: -6169241550945713955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1152
+        width: 28
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844c239c4c0f72644ae999658acd916b
+      internalID: -8366572860343062604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1152
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926e36557a2dd31459d117a2a5bee7ef
+      internalID: 1178145051358947883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1152
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ad69b6d8b9ba04f81ad38e7ae5f769
+      internalID: 4612413613440228898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1203308b5d95b745b848501aa5db058
+      internalID: 6913809122048886783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1152
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8139f5f443157549af1e75ddff29c3b
+      internalID: -1331473142162215999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aef543b910db294690a4757e957a9a0
+      internalID: -3147306823337984262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1152
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f0c25c7dc8ec54ea3a60da9bef8e31
+      internalID: -4826913869708391889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1152
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c69920dc21ac348811deb810c68093
+      internalID: -8740435189653255986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1152
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4af222eea79114ea0428c256d128d7
+      internalID: 1226609712997032732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_12
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1152
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4696215bbd4581e41845a478e1baf1d8
+      internalID: 2812367602650834410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_13
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1152
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd8d1a58a7679e41841e6843bcc4a96
+      internalID: -2111605411315735310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_14
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1152
+        width: 28
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400b9a320356998448d8a123368795d5
+      internalID: 5494546818952865981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_15
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1152
+        width: 28
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8160f18b1ff161f47adf5e0d2845c92e
+      internalID: 7260958030366810008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_16
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1152
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e9dcc08ac8f7047a9667c9dbc1f301
+      internalID: 970487538059296049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_17
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1152
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9d3750716de7e4f981adfb52a34cbc
+      internalID: 7141616752542971785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1152
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f3993e492a36c4f8800d3dab5b730e
+      internalID: -3171954111830635886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_19
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1152
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126a8b9bc3c5e844793800f9637e8960
+      internalID: 7012376045033716140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1152
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d1c361f643e6c41aa652353de6beb9
+      internalID: 9040528587773925544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_21
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1152
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65b1cb63a1fafc4ea5fb92baaddb007
+      internalID: 7787253911592768933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_22
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1152
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68292d2f73f3f9447bb8a4ea0076aba4
+      internalID: 2534204832243890222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_23
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1152
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889ced9d85d58744ba67fa4ff3b28e9a
+      internalID: 6072050013061496480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1088
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2db5e926e9b274f8c3aca2c629b185
+      internalID: 7382832796979377353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1090
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1f3239f3ee6e744ad01fd1fead3f4e
+      internalID: 8128151592539024907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_26
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1088
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2535bac9d9fcb364d80ae617fec09636
+      internalID: 3853432940025370125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_27
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1088
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7417de2359af1114f97576b955f36cc7
+      internalID: -1004730980196820531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_28
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1090
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b51c492f5467f446a079f3318838ed9
+      internalID: 8470627296340865983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_29
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1088
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cc38075df53ef4ba5307067dab535a
+      internalID: 4009400058817852784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f53bc3638673f459e42fbd1ba19b6c
+      internalID: -2250444896049009199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1088
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e171412d4226d6648818c8c1226ed4a1
+      internalID: -2686150508608947594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6452885ccb70a3744bf1afd709414fb7
+      internalID: -3854530478439330881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1088
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6585f43f84882394e9ba04dd1150fb5c
+      internalID: -4456970089214548426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ac80850e5a8a1418fd47858f4145c0
+      internalID: 5291099042677892040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1088
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5efedd4d95f0e4abe117551228a4f0
+      internalID: 8917418536393334573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_36
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1088
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067e1311df29f81408398ef88e6bf002
+      internalID: 2394879243837425116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_37
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1090
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44a920bc9ad4f14da1efe80e9f9a7df
+      internalID: -6207220217299120212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_38
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1088
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d602d1a5e539c074dadc830a13a61589
+      internalID: -2631344220911658273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_39
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1088
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cda743243db22242a6b8a278a5f754d
+      internalID: -4284751235136836353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_40
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1090
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f871e6aae94c49242ac267ea67bbbb38
+      internalID: 2692635729003846679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_41
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1088
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4efe8bb9dd8a3c40bbdc959d7b1d66b
+      internalID: -6928484732658201052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_42
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1090
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7332b5d0bdee3044881c3d075750af64
+      internalID: -3076058410493441206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_43
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1088
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c721dc5964313f489f5772c939f9c60
+      internalID: 7766303558121710410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_44
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1090
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675790f42fa233f4981fe99f383ddc31
+      internalID: 886034379912047755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_45
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1090
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a09f80ae86b8043add2bcd19560d0f
+      internalID: 6625314384623589291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_46
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1088
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b4173278a0ddc4fb446bdc8ee7f039
+      internalID: 6710750067673295342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_1_47
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1090
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acede6003eb15d4dab6e69fb9e971cc
+      internalID: 2392215284088754020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d1e3e7a25aa199a4e8b22650f00307f9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jugadora_1_0: 545423896341994314
+      jugadora_1_1: 6438180908158335807
+      jugadora_1_10: -8740435189653255986
+      jugadora_1_100: -4743512293465674660
+      jugadora_1_101: 5785691694595467802
+      jugadora_1_102: 2973383292942995708
+      jugadora_1_103: -1968082352346606831
+      jugadora_1_104: -4885267090774054152
+      jugadora_1_105: 1478097826676376733
+      jugadora_1_106: 5525103644022047737
+      jugadora_1_107: -5655053142503578119
+      jugadora_1_108: -147684761219038731
+      jugadora_1_109: -8595210331752668178
+      jugadora_1_11: 1226609712997032732
+      jugadora_1_110: -7966548411418873980
+      jugadora_1_111: -3250678185819984915
+      jugadora_1_112: -5791493865810627569
+      jugadora_1_113: -994434469904099737
+      jugadora_1_114: -7305513757593531144
+      jugadora_1_115: 4131882452923218504
+      jugadora_1_116: -8478178460382661821
+      jugadora_1_117: 8824049862889392834
+      jugadora_1_118: 6319261737312675419
+      jugadora_1_119: -7476454859325092500
+      jugadora_1_12: 2812367602650834410
+      jugadora_1_120: -2680658288286004909
+      jugadora_1_121: 4562714390117748182
+      jugadora_1_122: 4819414395638705403
+      jugadora_1_123: -6243428341023022843
+      jugadora_1_124: -3020765475223460837
+      jugadora_1_125: -2999085067622458034
+      jugadora_1_126: 377209346334021963
+      jugadora_1_127: 8061433459559655467
+      jugadora_1_128: 434954239699882312
+      jugadora_1_129: -7348944680498629487
+      jugadora_1_13: -2111605411315735310
+      jugadora_1_130: -7663337897041078752
+      jugadora_1_131: -9078632279383900091
+      jugadora_1_132: 8642130545721530645
+      jugadora_1_133: 397556209200636408
+      jugadora_1_134: 4094280569875243765
+      jugadora_1_135: -2418188648905274435
+      jugadora_1_136: 1982020353996056681
+      jugadora_1_137: -5654987626389317689
+      jugadora_1_138: -7215850514697816392
+      jugadora_1_139: -2647765788384936019
+      jugadora_1_14: 5494546818952865981
+      jugadora_1_140: -855386169953762795
+      jugadora_1_141: 4223813730899615726
+      jugadora_1_142: -9159567103603341374
+      jugadora_1_143: -4742801636865104869
+      jugadora_1_144: 2311580475387846717
+      jugadora_1_145: 1992687224796915144
+      jugadora_1_146: 4412325539322892989
+      jugadora_1_147: -3935905962070381285
+      jugadora_1_148: 3997195184243435029
+      jugadora_1_149: -5923219759139246276
+      jugadora_1_15: 7260958030366810008
+      jugadora_1_150: 3973036018951097778
+      jugadora_1_151: 4988245897797327319
+      jugadora_1_152: 6659809837466421799
+      jugadora_1_153: -7145319323680695523
+      jugadora_1_154: -3017890912553321731
+      jugadora_1_155: 7385340924861959353
+      jugadora_1_156: 5582040477932517753
+      jugadora_1_157: 544729878799123545
+      jugadora_1_158: 475981292947136269
+      jugadora_1_159: 6353204072950971145
+      jugadora_1_16: 970487538059296049
+      jugadora_1_160: 3352705960739758753
+      jugadora_1_161: -2342740712129262533
+      jugadora_1_162: -1908796017164360241
+      jugadora_1_163: -2770252754676285647
+      jugadora_1_164: 1589237005413332588
+      jugadora_1_165: -7175880621338164720
+      jugadora_1_166: -6905454673872171561
+      jugadora_1_167: -3141155737892940619
+      jugadora_1_168: 8253550175223275611
+      jugadora_1_169: -5549052614084034591
+      jugadora_1_17: 7141616752542971785
+      jugadora_1_170: 8207064920225273225
+      jugadora_1_171: -372312955383630525
+      jugadora_1_172: -4113579466905180504
+      jugadora_1_173: 6116448447556100211
+      jugadora_1_174: 7582129108301511835
+      jugadora_1_175: -1571139473279579711
+      jugadora_1_176: -657404990743648300
+      jugadora_1_177: 550269783250640956
+      jugadora_1_178: 3198078722345987711
+      jugadora_1_179: 7163051621928448792
+      jugadora_1_18: -3171954111830635886
+      jugadora_1_180: 2887896969243884700
+      jugadora_1_181: -2058998140452546402
+      jugadora_1_182: 1442515252371454767
+      jugadora_1_183: 1512040271569883479
+      jugadora_1_184: -1419604259058661756
+      jugadora_1_185: -8521848968004224725
+      jugadora_1_186: -6274575503679621116
+      jugadora_1_187: 8223296047122369482
+      jugadora_1_188: -4778278515459135582
+      jugadora_1_189: -5842928040396872362
+      jugadora_1_19: 7012376045033716140
+      jugadora_1_190: 5238863497218772642
+      jugadora_1_191: -1632462368115745445
+      jugadora_1_192: -6548747958082796282
+      jugadora_1_193: -3864384083156071206
+      jugadora_1_194: 8356562766132507067
+      jugadora_1_195: 1639486480089255826
+      jugadora_1_196: 7396522331785951161
+      jugadora_1_197: -3881317226035312797
+      jugadora_1_198: 9109548875564349276
+      jugadora_1_199: 8709934260637347121
+      jugadora_1_2: -6169241550945713955
+      jugadora_1_20: 9040528587773925544
+      jugadora_1_200: 102548492909211966
+      jugadora_1_201: 1843703304293705044
+      jugadora_1_202: 8004153540841035844
+      jugadora_1_203: 3662780582059042335
+      jugadora_1_204: 4384689097628642854
+      jugadora_1_205: -6122597897063189578
+      jugadora_1_206: -7718748501938416726
+      jugadora_1_207: 1673589898016939741
+      jugadora_1_208: 3038613542442514604
+      jugadora_1_209: -8232230036506921198
+      jugadora_1_21: 7787253911592768933
+      jugadora_1_210: 1492261712402828040
+      jugadora_1_211: 940469613087224264
+      jugadora_1_212: -5475389296162605891
+      jugadora_1_213: 7970037917124136088
+      jugadora_1_214: -4961968587162141121
+      jugadora_1_215: -4632706096884222854
+      jugadora_1_216: 7954063400334287686
+      jugadora_1_217: -5039332056949176090
+      jugadora_1_218: 4013564401533121317
+      jugadora_1_219: -7007548735015303175
+      jugadora_1_22: 2534204832243890222
+      jugadora_1_220: -4349718039924089355
+      jugadora_1_221: 4240000274698232716
+      jugadora_1_222: -6180552439400105842
+      jugadora_1_223: 5115919958770561548
+      jugadora_1_224: 6232765215046243455
+      jugadora_1_225: -3885606280086988993
+      jugadora_1_226: 2829811570219317474
+      jugadora_1_227: -5216566846217405097
+      jugadora_1_228: 4643927673379424699
+      jugadora_1_229: 5366085009874666029
+      jugadora_1_23: 6072050013061496480
+      jugadora_1_230: 3535499283059754551
+      jugadora_1_231: -3231557595644002317
+      jugadora_1_232: -2153446837514194005
+      jugadora_1_233: 567766044977402625
+      jugadora_1_234: -193748746955602991
+      jugadora_1_235: 4772574862957666978
+      jugadora_1_236: 8559636561939428509
+      jugadora_1_237: -4918410194666868865
+      jugadora_1_238: -7483300775602860991
+      jugadora_1_239: 6880731229825949591
+      jugadora_1_24: 7382832796979377353
+      jugadora_1_240: 7616494978293618689
+      jugadora_1_241: 8358818605398668318
+      jugadora_1_242: -4685408472791561210
+      jugadora_1_243: 9157126225141542241
+      jugadora_1_244: -7481097927466037075
+      jugadora_1_245: -2884268249938857389
+      jugadora_1_246: 4207289425399875805
+      jugadora_1_247: -4653516382520070998
+      jugadora_1_248: 4089049762825458748
+      jugadora_1_249: -5086750627230208892
+      jugadora_1_25: 8128151592539024907
+      jugadora_1_250: 2159750641539100340
+      jugadora_1_251: 4535804668698159877
+      jugadora_1_252: -4698751414162299681
+      jugadora_1_253: -5569226878303947427
+      jugadora_1_254: -4951146331786327787
+      jugadora_1_255: 5496780694179248875
+      jugadora_1_256: -8210148999617102646
+      jugadora_1_257: -2078982871825407098
+      jugadora_1_258: -7990470054834244877
+      jugadora_1_259: -6205398577634594123
+      jugadora_1_26: 3853432940025370125
+      jugadora_1_260: -1867490172727043145
+      jugadora_1_261: -4342356992712631913
+      jugadora_1_262: -275048195641741134
+      jugadora_1_263: -3788143578104162239
+      jugadora_1_264: -3029293982126121461
+      jugadora_1_265: 9098025487641426555
+      jugadora_1_266: -8415211464817898428
+      jugadora_1_267: 1665332267618672841
+      jugadora_1_268: -2893330191367911571
+      jugadora_1_269: -7100891327488040804
+      jugadora_1_27: -1004730980196820531
+      jugadora_1_270: 5304531385396343338
+      jugadora_1_271: -814127240691226018
+      jugadora_1_272: 721213397639641792
+      jugadora_1_273: 1391379729255560688
+      jugadora_1_274: 5904992531069697830
+      jugadora_1_275: 9138682701991820788
+      jugadora_1_276: 152174069347630637
+      jugadora_1_277: 8181255069375852330
+      jugadora_1_278: -9039685530450036078
+      jugadora_1_279: -4778605765579028329
+      jugadora_1_28: 8470627296340865983
+      jugadora_1_280: 4195610141579662907
+      jugadora_1_281: 6253463421526044164
+      jugadora_1_282: -5988402000032471851
+      jugadora_1_283: 5937465061802449140
+      jugadora_1_284: -2395329122927289188
+      jugadora_1_285: 3108643454509943445
+      jugadora_1_286: -760415351221969415
+      jugadora_1_287: 2827470755690991654
+      jugadora_1_288: -5972783225716738993
+      jugadora_1_289: 3682262740468167142
+      jugadora_1_29: 4009400058817852784
+      jugadora_1_290: 7030286159592561986
+      jugadora_1_291: 109392270526430927
+      jugadora_1_292: -3772532675267769804
+      jugadora_1_293: 1576668280699553179
+      jugadora_1_294: 3169431922149503722
+      jugadora_1_295: -8447365126370344825
+      jugadora_1_296: 1484567208958693011
+      jugadora_1_297: -2707522273039261411
+      jugadora_1_298: 7242067928777747964
+      jugadora_1_299: -3411269222692308833
+      jugadora_1_3: -8366572860343062604
+      jugadora_1_30: -2250444896049009199
+      jugadora_1_300: 1114006260400583483
+      jugadora_1_301: 4455250645987132698
+      jugadora_1_302: -5305671611405007478
+      jugadora_1_303: -7027804071447055357
+      jugadora_1_304: -6889748279699708583
+      jugadora_1_305: 4279570434082655476
+      jugadora_1_306: -3645493264005270537
+      jugadora_1_307: 7971671792509823469
+      jugadora_1_308: -4340424109564819901
+      jugadora_1_309: 7849466989748510825
+      jugadora_1_31: -2686150508608947594
+      jugadora_1_310: 2857252550004106412
+      jugadora_1_311: 4366401685298534208
+      jugadora_1_312: 6089693722880762581
+      jugadora_1_313: 5138238167466495662
+      jugadora_1_314: 4587037372558345724
+      jugadora_1_315: -8712592160552530179
+      jugadora_1_316: 3806191233596313561
+      jugadora_1_317: 8376716365892335600
+      jugadora_1_318: -4191175776241938104
+      jugadora_1_32: -3854530478439330881
+      jugadora_1_33: -4456970089214548426
+      jugadora_1_34: 5291099042677892040
+      jugadora_1_35: 8917418536393334573
+      jugadora_1_36: 2394879243837425116
+      jugadora_1_37: -6207220217299120212
+      jugadora_1_38: -2631344220911658273
+      jugadora_1_39: -4284751235136836353
+      jugadora_1_4: 1178145051358947883
+      jugadora_1_40: 2692635729003846679
+      jugadora_1_41: -6928484732658201052
+      jugadora_1_42: -3076058410493441206
+      jugadora_1_43: 7766303558121710410
+      jugadora_1_44: 886034379912047755
+      jugadora_1_45: 6625314384623589291
+      jugadora_1_46: 6710750067673295342
+      jugadora_1_47: 2392215284088754020
+      jugadora_1_48: -6969415979889894418
+      jugadora_1_49: 5869664910535588680
+      jugadora_1_5: 4612413613440228898
+      jugadora_1_50: 8075543824854144740
+      jugadora_1_51: -5421079139311372761
+      jugadora_1_52: 3395680037487575773
+      jugadora_1_53: -5761857542807413671
+      jugadora_1_54: 6508145163035397317
+      jugadora_1_55: 3727346259100493220
+      jugadora_1_56: -5317154929618374360
+      jugadora_1_57: -6123322988095833385
+      jugadora_1_58: 3108007432762302883
+      jugadora_1_59: 8431302579912583280
+      jugadora_1_6: 6913809122048886783
+      jugadora_1_60: 570742635072113292
+      jugadora_1_61: -2615653844430674333
+      jugadora_1_62: -1631263924153240091
+      jugadora_1_63: -4718364247707775792
+      jugadora_1_64: 5930289670134276155
+      jugadora_1_65: -6551441977601565752
+      jugadora_1_66: -7196614101832485274
+      jugadora_1_67: -229357226556623489
+      jugadora_1_68: 6805741791885872916
+      jugadora_1_69: 4472029192080831541
+      jugadora_1_7: -1331473142162215999
+      jugadora_1_70: 4861107365165532301
+      jugadora_1_71: 4921182076793479365
+      jugadora_1_72: -4404261101781907283
+      jugadora_1_73: -5196793003746861233
+      jugadora_1_74: -6118102197720348562
+      jugadora_1_75: -140837889864692411
+      jugadora_1_76: -2858873061511531405
+      jugadora_1_77: -5474685582077289801
+      jugadora_1_78: 7333485555173538235
+      jugadora_1_79: 6191472234473904998
+      jugadora_1_8: -3147306823337984262
+      jugadora_1_80: 3700572432554015126
+      jugadora_1_81: -9222430837665242868
+      jugadora_1_82: 7645176741826129846
+      jugadora_1_83: 8679219340222479161
+      jugadora_1_84: 8642032701644454470
+      jugadora_1_85: -4535720701100225945
+      jugadora_1_86: -1266589040737600410
+      jugadora_1_87: -2990169518227378919
+      jugadora_1_88: 3185834783695317674
+      jugadora_1_89: 8244378898592731715
+      jugadora_1_9: -4826913869708391889
+      jugadora_1_90: 1721816657129222552
+      jugadora_1_91: -2726099623548297687
+      jugadora_1_92: -1337465216734321954
+      jugadora_1_93: 4321776337861030967
+      jugadora_1_94: 6193898449318243154
+      jugadora_1_95: -3998926581078308949
+      jugadora_1_96: 4285853807691187898
+      jugadora_1_97: 961047686491038712
+      jugadora_1_98: -3663334879212018871
+      jugadora_1_99: -3218324616264597362
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

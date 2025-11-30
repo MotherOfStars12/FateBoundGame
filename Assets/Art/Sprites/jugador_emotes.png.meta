@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: e9b16fc9bd087ee4ebba034bf3b1b78a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3587726260582224024
+    second: jugador_emotes_0
+  - first:
+      213: -2482321093113978068
+    second: jugador_emotes_1
+  - first:
+      213: 1051264672440623717
+    second: jugador_emotes_2
+  - first:
+      213: 3253812118633037936
+    second: jugador_emotes_3
+  - first:
+      213: -2045504637249563542
+    second: jugador_emotes_4
+  - first:
+      213: 6357941127200580588
+    second: jugador_emotes_5
+  - first:
+      213: 5896534466577482931
+    second: jugador_emotes_6
+  - first:
+      213: -7151688837272399237
+    second: jugador_emotes_7
+  - first:
+      213: 1995179536306266572
+    second: jugador_emotes_8
+  - first:
+      213: -1452156350680390460
+    second: jugador_emotes_9
+  - first:
+      213: -1312223331682174386
+    second: jugador_emotes_10
+  - first:
+      213: 2958655076996288762
+    second: jugador_emotes_11
+  - first:
+      213: -437321125104517544
+    second: jugador_emotes_12
+  - first:
+      213: 6262343608675856453
+    second: jugador_emotes_13
+  - first:
+      213: 2760041904411926552
+    second: jugador_emotes_14
+  - first:
+      213: 9075409017371175537
+    second: jugador_emotes_15
+  - first:
+      213: 6144626160437542548
+    second: jugador_emotes_16
+  - first:
+      213: -4496050758641548368
+    second: jugador_emotes_17
+  - first:
+      213: 158238226705704137
+    second: jugador_emotes_18
+  - first:
+      213: 9056253515112850116
+    second: jugador_emotes_19
+  - first:
+      213: -4913093919066893849
+    second: jugador_emotes_20
+  - first:
+      213: 7960937708177576344
+    second: jugador_emotes_21
+  - first:
+      213: 5560935317219544782
+    second: jugador_emotes_22
+  - first:
+      213: -5042906612090075101
+    second: jugador_emotes_23
+  - first:
+      213: 5925136525320241241
+    second: jugador_emotes_24
+  - first:
+      213: 6557623178674460300
+    second: jugador_emotes_25
+  - first:
+      213: 3273655091571605094
+    second: jugador_emotes_26
+  - first:
+      213: -2212084710231874504
+    second: jugador_emotes_27
+  - first:
+      213: -5783290612272776624
+    second: jugador_emotes_28
+  - first:
+      213: -5302234697982093561
+    second: jugador_emotes_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jugador_emotes_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 146
+        width: 34
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8901851860a2ac130800000000000000
+      internalID: 3587726260582224024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_emotes_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 146
+        width: 34
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3492dbdaa0ee49a4baaf1a3dd5ac3602
+      internalID: -2482321093113978068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_emotes_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 146
+        width: 34
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25da1e704c23d1c4cad1f847a642efaa
+      internalID: 1051264672440623717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_emotes_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 146
+        width: 35
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab4f356fb4b1f94fb6495529eb1dab1
+      internalID: 3253812118633037936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_emotes_4
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 146
+        width: 34
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4b7b8a654bd9c47af9fc984eca7bf7
+      internalID: -2045504637249563542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_emotes_5
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 146
+        width: 34
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb612ec47adc9749897500208539734
+      internalID: 6357941127200580588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_emotes_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 146
+        width: 34
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31ba5ba09f57264c874c65923ae02e0
+      internalID: 5896534466577482931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_emotes_7
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 146
+        width: 34
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710cc8342dcdecc4d88867b34aa12efb
+      internalID: -7151688837272399237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_emotes_8
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 146
+        width: 34
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff09f2769fec07a4c8d473d385596e2e
+      internalID: 1995179536306266572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugador_emotes_9
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 146
+        width: 34
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8398fc050ed5991458f498decb3782e9
+      internalID: -1452156350680390460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 30058bc6417d4fd4a8a36827c014105a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jugador_emotes_0: 3587726260582224024
+      jugador_emotes_1: -2482321093113978068
+      jugador_emotes_10: -1312223331682174386
+      jugador_emotes_11: 2958655076996288762
+      jugador_emotes_12: -437321125104517544
+      jugador_emotes_13: 6262343608675856453
+      jugador_emotes_14: 2760041904411926552
+      jugador_emotes_15: 9075409017371175537
+      jugador_emotes_16: 6144626160437542548
+      jugador_emotes_17: -4496050758641548368
+      jugador_emotes_18: 158238226705704137
+      jugador_emotes_19: 9056253515112850116
+      jugador_emotes_2: 1051264672440623717
+      jugador_emotes_20: -4913093919066893849
+      jugador_emotes_21: 7960937708177576344
+      jugador_emotes_22: 5560935317219544782
+      jugador_emotes_23: -5042906612090075101
+      jugador_emotes_24: 5925136525320241241
+      jugador_emotes_25: 6557623178674460300
+      jugador_emotes_26: 3273655091571605094
+      jugador_emotes_27: -2212084710231874504
+      jugador_emotes_28: -5783290612272776624
+      jugador_emotes_29: -5302234697982093561
+      jugador_emotes_3: 3253812118633037936
+      jugador_emotes_4: -2045504637249563542
+      jugador_emotes_5: 6357941127200580588
+      jugador_emotes_6: 5896534466577482931
+      jugador_emotes_7: -7151688837272399237
+      jugador_emotes_8: 1995179536306266572
+      jugador_emotes_9: -1452156350680390460
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

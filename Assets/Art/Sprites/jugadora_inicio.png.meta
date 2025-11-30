@@ -1,0 +1,2636 @@
+fileFormatVersion: 2
+guid: cfee5dd3b48be754680270d5a668c6e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 684776329320479207
+    second: jugadora_inicio_0
+  - first:
+      213: 5770846742177204869
+    second: jugadora_inicio_1
+  - first:
+      213: -1515634539987329542
+    second: jugadora_inicio_2
+  - first:
+      213: -3164292516253340956
+    second: jugadora_inicio_3
+  - first:
+      213: -5526533078209099601
+    second: jugadora_inicio_4
+  - first:
+      213: -3646594348093235998
+    second: jugadora_inicio_5
+  - first:
+      213: -3663561945649577411
+    second: jugadora_inicio_6
+  - first:
+      213: -3646321479371088030
+    second: jugadora_inicio_7
+  - first:
+      213: -7515135379648939710
+    second: jugadora_inicio_8
+  - first:
+      213: -8021952715048617542
+    second: jugadora_inicio_9
+  - first:
+      213: -34620455720416074
+    second: jugadora_inicio_10
+  - first:
+      213: 7662043008465877939
+    second: jugadora_inicio_11
+  - first:
+      213: 4894092727908421543
+    second: jugadora_inicio_12
+  - first:
+      213: 6922595201605142435
+    second: jugadora_inicio_13
+  - first:
+      213: -8615356009698516156
+    second: jugadora_inicio_14
+  - first:
+      213: 9103270158482436389
+    second: jugadora_inicio_15
+  - first:
+      213: -4124525436063942776
+    second: jugadora_inicio_16
+  - first:
+      213: 1518888616160589631
+    second: jugadora_inicio_17
+  - first:
+      213: 8379600169066724876
+    second: jugadora_inicio_18
+  - first:
+      213: -5480515165938213008
+    second: jugadora_inicio_19
+  - first:
+      213: 2149826196109170508
+    second: jugadora_inicio_20
+  - first:
+      213: 6568348345810146555
+    second: jugadora_inicio_21
+  - first:
+      213: 3620585440322132070
+    second: jugadora_inicio_22
+  - first:
+      213: 5410764985047679614
+    second: jugadora_inicio_23
+  - first:
+      213: -8320243083517107712
+    second: jugadora_inicio_24
+  - first:
+      213: 1283890215237606585
+    second: jugadora_inicio_25
+  - first:
+      213: 5013534662600382474
+    second: jugadora_inicio_26
+  - first:
+      213: 884381818075079282
+    second: jugadora_inicio_27
+  - first:
+      213: -6395468071929408366
+    second: jugadora_inicio_28
+  - first:
+      213: 2321599200463507674
+    second: jugadora_inicio_29
+  - first:
+      213: 2384739648057645495
+    second: jugadora_inicio_30
+  - first:
+      213: 3642002969875319542
+    second: jugadora_inicio_31
+  - first:
+      213: 7849051133283856776
+    second: jugadora_inicio_32
+  - first:
+      213: -299169584611809795
+    second: jugadora_inicio_33
+  - first:
+      213: -3295207398273357723
+    second: jugadora_inicio_34
+  - first:
+      213: -2524456223735271869
+    second: jugadora_inicio_35
+  - first:
+      213: 4242656865463821758
+    second: jugadora_inicio_36
+  - first:
+      213: 8845882216479210491
+    second: jugadora_inicio_37
+  - first:
+      213: 3016420339863908125
+    second: jugadora_inicio_38
+  - first:
+      213: -6731779007716791628
+    second: jugadora_inicio_39
+  - first:
+      213: 8550784681769838701
+    second: jugadora_inicio_40
+  - first:
+      213: 4808204578765653004
+    second: jugadora_inicio_41
+  - first:
+      213: -2212069394308991265
+    second: jugadora_inicio_42
+  - first:
+      213: -4352975915307388698
+    second: jugadora_inicio_43
+  - first:
+      213: 1576563181019323178
+    second: jugadora_inicio_44
+  - first:
+      213: 3990828205878708742
+    second: jugadora_inicio_45
+  - first:
+      213: 6304021932894957037
+    second: jugadora_inicio_46
+  - first:
+      213: 913984390495880538
+    second: jugadora_inicio_47
+  - first:
+      213: -7053849769588565008
+    second: jugadora_inicio_48
+  - first:
+      213: -3545055134186736615
+    second: jugadora_inicio_49
+  - first:
+      213: -6552811180444103437
+    second: jugadora_inicio_50
+  - first:
+      213: 804485493831451645
+    second: jugadora_inicio_51
+  - first:
+      213: 433054417581768438
+    second: jugadora_inicio_52
+  - first:
+      213: -5547925618675614306
+    second: jugadora_inicio_53
+  - first:
+      213: -1315374241172339909
+    second: jugadora_inicio_54
+  - first:
+      213: -6258279889952587829
+    second: jugadora_inicio_55
+  - first:
+      213: -7152246691617476533
+    second: jugadora_inicio_56
+  - first:
+      213: 1082814962136420389
+    second: jugadora_inicio_57
+  - first:
+      213: -5824447229089885288
+    second: jugadora_inicio_58
+  - first:
+      213: 3305394687350424062
+    second: jugadora_inicio_59
+  - first:
+      213: -6137957782233333322
+    second: jugadora_inicio_60
+  - first:
+      213: -9202670557040720488
+    second: jugadora_inicio_61
+  - first:
+      213: -5721108595214026160
+    second: jugadora_inicio_62
+  - first:
+      213: 313382857239088946
+    second: jugadora_inicio_63
+  - first:
+      213: -5572927033339133952
+    second: jugadora_inicio_64
+  - first:
+      213: -5466096122162498035
+    second: jugadora_inicio_65
+  - first:
+      213: -4294638513704437116
+    second: jugadora_inicio_66
+  - first:
+      213: -5149793293082430745
+    second: jugadora_inicio_67
+  - first:
+      213: -5637539436693806777
+    second: jugadora_inicio_68
+  - first:
+      213: -429274081931789122
+    second: jugadora_inicio_69
+  - first:
+      213: 4038414389081330361
+    second: jugadora_inicio_70
+  - first:
+      213: 5378142931988196730
+    second: jugadora_inicio_71
+  - first:
+      213: 2533485520917984558
+    second: jugadora_inicio_72
+  - first:
+      213: -3621508842263850482
+    second: jugadora_inicio_73
+  - first:
+      213: 6297246063266831607
+    second: jugadora_inicio_74
+  - first:
+      213: -3915369064356704204
+    second: jugadora_inicio_75
+  - first:
+      213: -2149292401841208716
+    second: jugadora_inicio_76
+  - first:
+      213: 2608831826103425468
+    second: jugadora_inicio_77
+  - first:
+      213: 7318283380965583401
+    second: jugadora_inicio_78
+  - first:
+      213: 7815389790820266035
+    second: jugadora_inicio_79
+  - first:
+      213: 7121189424078944533
+    second: jugadora_inicio_80
+  - first:
+      213: -3171779303146394093
+    second: jugadora_inicio_81
+  - first:
+      213: -2771175416048747441
+    second: jugadora_inicio_82
+  - first:
+      213: 5400697325750278248
+    second: jugadora_inicio_83
+  - first:
+      213: -8897202788191233094
+    second: jugadora_inicio_84
+  - first:
+      213: -9082376643267301954
+    second: jugadora_inicio_85
+  - first:
+      213: -6952783079519274668
+    second: jugadora_inicio_86
+  - first:
+      213: -6211188018525514719
+    second: jugadora_inicio_87
+  - first:
+      213: 6988900323912840022
+    second: jugadora_inicio_88
+  - first:
+      213: -7448641327206260048
+    second: jugadora_inicio_89
+  - first:
+      213: -2912284361969896127
+    second: jugadora_inicio_90
+  - first:
+      213: -753652828256855732
+    second: jugadora_inicio_91
+  - first:
+      213: 6331928879876000980
+    second: jugadora_inicio_92
+  - first:
+      213: -4757009570958580473
+    second: jugadora_inicio_93
+  - first:
+      213: 1265209427531586611
+    second: jugadora_inicio_94
+  - first:
+      213: -6047072700580948878
+    second: jugadora_inicio_95
+  - first:
+      213: -1941103704508537095
+    second: jugadora_inicio_96
+  - first:
+      213: -3651582934123964514
+    second: jugadora_inicio_97
+  - first:
+      213: 2275224622552948208
+    second: jugadora_inicio_98
+  - first:
+      213: 7801111208769568071
+    second: jugadora_inicio_99
+  - first:
+      213: -8661181773754574032
+    second: jugadora_inicio_100
+  - first:
+      213: 1464326042393819794
+    second: jugadora_inicio_101
+  - first:
+      213: 32217334494467034
+    second: jugadora_inicio_102
+  - first:
+      213: 136328382043995742
+    second: jugadora_inicio_103
+  - first:
+      213: 2956173385325692544
+    second: jugadora_inicio_104
+  - first:
+      213: -194884400984773850
+    second: jugadora_inicio_105
+  - first:
+      213: 4242139953066814521
+    second: jugadora_inicio_106
+  - first:
+      213: 5860094288350869728
+    second: jugadora_inicio_107
+  - first:
+      213: -7770598187555197586
+    second: jugadora_inicio_108
+  - first:
+      213: -335742408955374516
+    second: jugadora_inicio_109
+  - first:
+      213: -3952286058426163822
+    second: jugadora_inicio_110
+  - first:
+      213: -639954206944396875
+    second: jugadora_inicio_111
+  - first:
+      213: 7785404664066655635
+    second: jugadora_inicio_112
+  - first:
+      213: 658665978548353295
+    second: jugadora_inicio_113
+  - first:
+      213: -2123321761211725222
+    second: jugadora_inicio_114
+  - first:
+      213: -7336592775954180416
+    second: jugadora_inicio_115
+  - first:
+      213: 637813384105611094
+    second: jugadora_inicio_116
+  - first:
+      213: -2606430701538370074
+    second: jugadora_inicio_117
+  - first:
+      213: -6019454589767394247
+    second: jugadora_inicio_118
+  - first:
+      213: -4591364492287064522
+    second: jugadora_inicio_119
+  - first:
+      213: -5426814338577203385
+    second: jugadora_inicio_120
+  - first:
+      213: 229539694687981116
+    second: jugadora_inicio_121
+  - first:
+      213: 5242895552387553430
+    second: jugadora_inicio_122
+  - first:
+      213: -6094354461876374033
+    second: jugadora_inicio_123
+  - first:
+      213: 4651244532298442666
+    second: jugadora_inicio_124
+  - first:
+      213: -4478825764807330065
+    second: jugadora_inicio_125
+  - first:
+      213: -6262856727749545938
+    second: jugadora_inicio_126
+  - first:
+      213: -1729060275018973062
+    second: jugadora_inicio_127
+  - first:
+      213: 612286066085527530
+    second: jugadora_inicio_128
+  - first:
+      213: -4644240666329037065
+    second: jugadora_inicio_129
+  - first:
+      213: -5171904878411271389
+    second: jugadora_inicio_130
+  - first:
+      213: 2995601600641191293
+    second: jugadora_inicio_131
+  - first:
+      213: -5822159206688217853
+    second: jugadora_inicio_132
+  - first:
+      213: 1601856688955325342
+    second: jugadora_inicio_133
+  - first:
+      213: -50894800646300281
+    second: jugadora_inicio_134
+  - first:
+      213: -2041112150243331301
+    second: jugadora_inicio_135
+  - first:
+      213: 4534218758115714597
+    second: jugadora_inicio_136
+  - first:
+      213: 7026304554184703447
+    second: jugadora_inicio_137
+  - first:
+      213: -7514094795792881326
+    second: jugadora_inicio_138
+  - first:
+      213: -3939472611730976886
+    second: jugadora_inicio_139
+  - first:
+      213: -4580541902928806675
+    second: jugadora_inicio_140
+  - first:
+      213: 6154210695446832701
+    second: jugadora_inicio_141
+  - first:
+      213: 6122650390050791846
+    second: jugadora_inicio_142
+  - first:
+      213: 8441926477505865151
+    second: jugadora_inicio_143
+  - first:
+      213: 7593871007328513819
+    second: jugadora_inicio_144
+  - first:
+      213: 7022301916407635581
+    second: jugadora_inicio_145
+  - first:
+      213: 3414904352280288532
+    second: jugadora_inicio_146
+  - first:
+      213: 5750604297507695902
+    second: jugadora_inicio_147
+  - first:
+      213: 591461555611993054
+    second: jugadora_inicio_148
+  - first:
+      213: -8734312599428677433
+    second: jugadora_inicio_149
+  - first:
+      213: -8336149467756719815
+    second: jugadora_inicio_150
+  - first:
+      213: -7342239062828240339
+    second: jugadora_inicio_151
+  - first:
+      213: -6860967457671049137
+    second: jugadora_inicio_152
+  - first:
+      213: -7563632108174323366
+    second: jugadora_inicio_153
+  - first:
+      213: -4555040981113298112
+    second: jugadora_inicio_154
+  - first:
+      213: -5892472469260575568
+    second: jugadora_inicio_155
+  - first:
+      213: -6701818946446335377
+    second: jugadora_inicio_156
+  - first:
+      213: -2573545429952033493
+    second: jugadora_inicio_157
+  - first:
+      213: -3495293936210507332
+    second: jugadora_inicio_158
+  - first:
+      213: 8145122685435324671
+    second: jugadora_inicio_159
+  - first:
+      213: -828994341007569258
+    second: jugadora_inicio_160
+  - first:
+      213: -1878224707955907820
+    second: jugadora_inicio_161
+  - first:
+      213: -2725998634042230085
+    second: jugadora_inicio_162
+  - first:
+      213: -8183862469079332717
+    second: jugadora_inicio_163
+  - first:
+      213: 1340165044727819153
+    second: jugadora_inicio_164
+  - first:
+      213: -8634353932524952457
+    second: jugadora_inicio_165
+  - first:
+      213: 3230321338816734480
+    second: jugadora_inicio_166
+  - first:
+      213: 3546066022230604209
+    second: jugadora_inicio_167
+  - first:
+      213: 1255721618931725715
+    second: jugadora_inicio_168
+  - first:
+      213: -4585757484410313821
+    second: jugadora_inicio_169
+  - first:
+      213: -241562086939428248
+    second: jugadora_inicio_170
+  - first:
+      213: -9163881895327560943
+    second: jugadora_inicio_171
+  - first:
+      213: 2547203906736864902
+    second: jugadora_inicio_172
+  - first:
+      213: -1777856365076463938
+    second: jugadora_inicio_173
+  - first:
+      213: -4985422399567196796
+    second: jugadora_inicio_174
+  - first:
+      213: 7262630434929998474
+    second: jugadora_inicio_175
+  - first:
+      213: -7938790535182954712
+    second: jugadora_inicio_176
+  - first:
+      213: 5564992061531837377
+    second: jugadora_inicio_177
+  - first:
+      213: -5888745174531792675
+    second: jugadora_inicio_178
+  - first:
+      213: -7246016719702710511
+    second: jugadora_inicio_179
+  - first:
+      213: -8098176006054805015
+    second: jugadora_inicio_180
+  - first:
+      213: 3440573658106108605
+    second: jugadora_inicio_181
+  - first:
+      213: -2753943308519380224
+    second: jugadora_inicio_182
+  - first:
+      213: 4336067846308859616
+    second: jugadora_inicio_183
+  - first:
+      213: -4461234691010142151
+    second: jugadora_inicio_184
+  - first:
+      213: 8016313783160871933
+    second: jugadora_inicio_185
+  - first:
+      213: 4118404333709196263
+    second: jugadora_inicio_186
+  - first:
+      213: -7838149575143569104
+    second: jugadora_inicio_187
+  - first:
+      213: -6961364782453612056
+    second: jugadora_inicio_188
+  - first:
+      213: -2912574054807369280
+    second: jugadora_inicio_189
+  - first:
+      213: 5726862889882908165
+    second: jugadora_inicio_190
+  - first:
+      213: -6816150002097088959
+    second: jugadora_inicio_191
+  - first:
+      213: 8146156489281204543
+    second: jugadora_inicio_192
+  - first:
+      213: -3069561086782090563
+    second: jugadora_inicio_193
+  - first:
+      213: 3371059966351076247
+    second: jugadora_inicio_194
+  - first:
+      213: 7502084009718358739
+    second: jugadora_inicio_195
+  - first:
+      213: -8185400663592380297
+    second: jugadora_inicio_196
+  - first:
+      213: -214485948439629358
+    second: jugadora_inicio_197
+  - first:
+      213: -6064390477544310381
+    second: jugadora_inicio_198
+  - first:
+      213: -401095501846017375
+    second: jugadora_inicio_199
+  - first:
+      213: -7664327095950580870
+    second: jugadora_inicio_200
+  - first:
+      213: 1906258395620371808
+    second: jugadora_inicio_201
+  - first:
+      213: -3415587750870792379
+    second: jugadora_inicio_202
+  - first:
+      213: -3153680754590178745
+    second: jugadora_inicio_203
+  - first:
+      213: 5919169630790801039
+    second: jugadora_inicio_204
+  - first:
+      213: 4967984168603847114
+    second: jugadora_inicio_205
+  - first:
+      213: -6492098523041494459
+    second: jugadora_inicio_206
+  - first:
+      213: 5289403898295397200
+    second: jugadora_inicio_207
+  - first:
+      213: 8497836787143963723
+    second: jugadora_inicio_208
+  - first:
+      213: -2347634956053064580
+    second: jugadora_inicio_209
+  - first:
+      213: -3533485965539989269
+    second: jugadora_inicio_210
+  - first:
+      213: -7955192334264245504
+    second: jugadora_inicio_211
+  - first:
+      213: -243949286679918572
+    second: jugadora_inicio_212
+  - first:
+      213: 6667400873426125234
+    second: jugadora_inicio_213
+  - first:
+      213: -2092500603243783723
+    second: jugadora_inicio_214
+  - first:
+      213: 1583777427779464817
+    second: jugadora_inicio_215
+  - first:
+      213: 204832509579359447
+    second: jugadora_inicio_216
+  - first:
+      213: 9185724458696240384
+    second: jugadora_inicio_217
+  - first:
+      213: -3235931926637818116
+    second: jugadora_inicio_218
+  - first:
+      213: 5056851543073959765
+    second: jugadora_inicio_219
+  - first:
+      213: 6661713232895179541
+    second: jugadora_inicio_220
+  - first:
+      213: 2353678461231126887
+    second: jugadora_inicio_221
+  - first:
+      213: -2346795757680203433
+    second: jugadora_inicio_222
+  - first:
+      213: 8336919242363498845
+    second: jugadora_inicio_223
+  - first:
+      213: -2790674684449354009
+    second: jugadora_inicio_224
+  - first:
+      213: 2840091683670451667
+    second: jugadora_inicio_225
+  - first:
+      213: 615374511238688473
+    second: jugadora_inicio_226
+  - first:
+      213: -1611062194927141875
+    second: jugadora_inicio_227
+  - first:
+      213: -2320046545913620546
+    second: jugadora_inicio_228
+  - first:
+      213: 2301857747004003608
+    second: jugadora_inicio_229
+  - first:
+      213: 4706325340935645802
+    second: jugadora_inicio_230
+  - first:
+      213: -4414475255607504159
+    second: jugadora_inicio_231
+  - first:
+      213: 7850950550588702764
+    second: jugadora_inicio_232
+  - first:
+      213: -7719893951644243873
+    second: jugadora_inicio_233
+  - first:
+      213: -7841318964401023595
+    second: jugadora_inicio_234
+  - first:
+      213: -521075675392043713
+    second: jugadora_inicio_235
+  - first:
+      213: 2613029180730651654
+    second: jugadora_inicio_236
+  - first:
+      213: -1701838148689795588
+    second: jugadora_inicio_237
+  - first:
+      213: 1384471641308841981
+    second: jugadora_inicio_238
+  - first:
+      213: 7198215578129908819
+    second: jugadora_inicio_239
+  - first:
+      213: 836694384440827950
+    second: jugadora_inicio_240
+  - first:
+      213: -7405246904769325361
+    second: jugadora_inicio_241
+  - first:
+      213: 4907016422143560111
+    second: jugadora_inicio_242
+  - first:
+      213: -5256858681197474193
+    second: jugadora_inicio_243
+  - first:
+      213: 8204541838592702668
+    second: jugadora_inicio_244
+  - first:
+      213: 355099838289587079
+    second: jugadora_inicio_245
+  - first:
+      213: 7909713973177323740
+    second: jugadora_inicio_246
+  - first:
+      213: 3701907412213244166
+    second: jugadora_inicio_247
+  - first:
+      213: 2135449796118662443
+    second: jugadora_inicio_248
+  - first:
+      213: -7916845930420957920
+    second: jugadora_inicio_249
+  - first:
+      213: 5291893630392429252
+    second: jugadora_inicio_250
+  - first:
+      213: -7090319228655720882
+    second: jugadora_inicio_251
+  - first:
+      213: 5939161899835651692
+    second: jugadora_inicio_252
+  - first:
+      213: -3619410811577479295
+    second: jugadora_inicio_253
+  - first:
+      213: 8189235856216890110
+    second: jugadora_inicio_254
+  - first:
+      213: -8051979642138660928
+    second: jugadora_inicio_255
+  - first:
+      213: -1212173889231726148
+    second: jugadora_inicio_256
+  - first:
+      213: -440465078365450555
+    second: jugadora_inicio_257
+  - first:
+      213: -1169086276366066994
+    second: jugadora_inicio_258
+  - first:
+      213: -7401124726323559454
+    second: jugadora_inicio_259
+  - first:
+      213: -1218999780210673107
+    second: jugadora_inicio_260
+  - first:
+      213: -4377591974058666562
+    second: jugadora_inicio_261
+  - first:
+      213: 4255513478272860886
+    second: jugadora_inicio_262
+  - first:
+      213: -7917665240149860347
+    second: jugadora_inicio_263
+  - first:
+      213: -3397878152777805400
+    second: jugadora_inicio_264
+  - first:
+      213: 1896884700872397875
+    second: jugadora_inicio_265
+  - first:
+      213: 3168566446138451926
+    second: jugadora_inicio_266
+  - first:
+      213: -2149057976620694928
+    second: jugadora_inicio_267
+  - first:
+      213: -205336157135741499
+    second: jugadora_inicio_268
+  - first:
+      213: 5183945965177818285
+    second: jugadora_inicio_269
+  - first:
+      213: 287606202268029374
+    second: jugadora_inicio_270
+  - first:
+      213: -4182793683715467963
+    second: jugadora_inicio_271
+  - first:
+      213: 3836577826023542554
+    second: jugadora_inicio_272
+  - first:
+      213: -3410376523755452275
+    second: jugadora_inicio_273
+  - first:
+      213: -3340141135453516182
+    second: jugadora_inicio_274
+  - first:
+      213: -6363621683134399837
+    second: jugadora_inicio_275
+  - first:
+      213: 5632873894565144181
+    second: jugadora_inicio_276
+  - first:
+      213: -5140580779198072261
+    second: jugadora_inicio_277
+  - first:
+      213: 5935868663839744034
+    second: jugadora_inicio_278
+  - first:
+      213: 4609754308672397456
+    second: jugadora_inicio_279
+  - first:
+      213: 2336116406635832004
+    second: jugadora_inicio_280
+  - first:
+      213: -4853047296380622648
+    second: jugadora_inicio_281
+  - first:
+      213: -2558662433698839224
+    second: jugadora_inicio_282
+  - first:
+      213: 2209960495215867646
+    second: jugadora_inicio_283
+  - first:
+      213: 6612538689387639214
+    second: jugadora_inicio_284
+  - first:
+      213: -402066452016341757
+    second: jugadora_inicio_285
+  - first:
+      213: -6911791520179014909
+    second: jugadora_inicio_286
+  - first:
+      213: 7784424640113008811
+    second: jugadora_inicio_287
+  - first:
+      213: 2757591101065124888
+    second: jugadora_inicio_288
+  - first:
+      213: -7998585805732234056
+    second: jugadora_inicio_289
+  - first:
+      213: 8058577620036534976
+    second: jugadora_inicio_290
+  - first:
+      213: 5623518147522095577
+    second: jugadora_inicio_291
+  - first:
+      213: 4460375640172392849
+    second: jugadora_inicio_292
+  - first:
+      213: 5493036593554358914
+    second: jugadora_inicio_293
+  - first:
+      213: 1110953095525548619
+    second: jugadora_inicio_294
+  - first:
+      213: -7827317337309492170
+    second: jugadora_inicio_295
+  - first:
+      213: 2444761624376990434
+    second: jugadora_inicio_296
+  - first:
+      213: -7455622367899905934
+    second: jugadora_inicio_297
+  - first:
+      213: -2026776527827108455
+    second: jugadora_inicio_298
+  - first:
+      213: -8320227302336403359
+    second: jugadora_inicio_299
+  - first:
+      213: -7874849830103289060
+    second: jugadora_inicio_300
+  - first:
+      213: 4717698122780668683
+    second: jugadora_inicio_301
+  - first:
+      213: -8691490662751554873
+    second: jugadora_inicio_302
+  - first:
+      213: 7173837078703863758
+    second: jugadora_inicio_303
+  - first:
+      213: -678110096041137247
+    second: jugadora_inicio_304
+  - first:
+      213: 1835111796673308169
+    second: jugadora_inicio_305
+  - first:
+      213: 1280832225271544690
+    second: jugadora_inicio_306
+  - first:
+      213: 6390907881138293248
+    second: jugadora_inicio_307
+  - first:
+      213: 328912261490660406
+    second: jugadora_inicio_308
+  - first:
+      213: -5486609278295750803
+    second: jugadora_inicio_309
+  - first:
+      213: -3123159882462159751
+    second: jugadora_inicio_310
+  - first:
+      213: -7749102749350581438
+    second: jugadora_inicio_311
+  - first:
+      213: -7058505945606043915
+    second: jugadora_inicio_312
+  - first:
+      213: -7094775033027468968
+    second: jugadora_inicio_313
+  - first:
+      213: -2106347556608409975
+    second: jugadora_inicio_314
+  - first:
+      213: -8021327232604780579
+    second: jugadora_inicio_315
+  - first:
+      213: 3962068852328487220
+    second: jugadora_inicio_316
+  - first:
+      213: 8162697530219936024
+    second: jugadora_inicio_317
+  - first:
+      213: 6512137843112924442
+    second: jugadora_inicio_318
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jugadora_inicio_0
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1152
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e93eb38170d08900800000000000000
+      internalID: 684776329320479207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_1
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1152
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a41b8698a261050800000000000000
+      internalID: 5770846742177204869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1152
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd1eb28a6267fae0800000000000000
+      internalID: -1515634539987329542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_3
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1152
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eaea4bb8bc2614d0800000000000000
+      internalID: -3164292516253340956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_4
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1152
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bba8d7d0e56b3e4eae21ea920a6500b
+      internalID: -5526533078209099601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_5
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1152
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b449f428763ee4b8734ddabe90b9a4
+      internalID: -3646594348093235998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d5f4f4693eda5448ab312011498292
+      internalID: -3663561945649577411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1152
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228a1ceaa9563c14dabba83bfefc6185
+      internalID: -3646321479371088030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd3f804d0c440447b68e9fbf9b0632e
+      internalID: -7515135379648939710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1152
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ebc2ac7f86c124fbbb4f88ed9a0660
+      internalID: -8021952715048617542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1152
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80e47553ddf8b0449a53871623b3b39
+      internalID: -34620455720416074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1152
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e475e2beb7b2e0947b985470c0e5b9e8
+      internalID: 7662043008465877939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1152
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91dd26b46c955ae44bcb3738fa5236ec
+      internalID: 4894092727908421543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_13
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1152
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a450c087bdfd2104f8eb58d44bc7efac
+      internalID: 6922595201605142435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_14
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1152
+        width: 28
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d08a84f0dcd9634f9844862d48fe0ff
+      internalID: -8615356009698516156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_15
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1152
+        width: 28
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa1815e4db779c45a1abcd7a62eab27
+      internalID: 9103270158482436389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_16
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1152
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99300595a745de4b98a72a5b18f682a
+      internalID: -4124525436063942776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_17
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1152
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a323dba8f9ce04ab06f2e80af28a58
+      internalID: 1518888616160589631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_18
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1152
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ac64290300e5a4d8e02346ef750690
+      internalID: 8379600169066724876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_19
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1152
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1986b701e6448da44bc6d1be7551176d
+      internalID: -5480515165938213008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_20
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1152
+        width: 28
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c34acba827b474487e848360cae25c
+      internalID: 2149826196109170508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_21
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1152
+        width: 28
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992cca712c21bce4d9ab3f895c715602
+      internalID: 6568348345810146555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_22
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1152
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae35dc427a3ad6c4bbf8f8053cc671e4
+      internalID: 3620585440322132070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_23
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1152
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d67a0439e9cfc4b95313adec9a40e9
+      internalID: 5410764985047679614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_24
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1090
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94e711cd8d13134c87125092beaea9c
+      internalID: -8320243083517107712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_25
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1088
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0977169bb3aba544b18e802da091016
+      internalID: 1283890215237606585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1090
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56aebdc8db94ea42a27b5e9b982ec37
+      internalID: 5013534662600382474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_27
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1090
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add695de6e38b944294c0cffd66fb3b1
+      internalID: 884381818075079282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_28
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1088
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcec883dfd3130242b221150e521fe46
+      internalID: -6395468071929408366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_29
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1090
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df17fa44eae7894ea6fe96234b544c5
+      internalID: 2321599200463507674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_30
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1088
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad43bee1aced1ef4faccc8ba72df4265
+      internalID: 2384739648057645495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_31
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1090
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1139822700da07c409a9b576fc7cb815
+      internalID: 3642002969875319542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_32
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1088
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937e4206a980a9c498ac1c699a5a388a
+      internalID: 7849051133283856776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_33
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1088
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ae468dcf348ca499dc304a7751aee2
+      internalID: -299169584611809795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_34
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1090
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475e20f53a5766a4fa66cceb134f1946
+      internalID: -3295207398273357723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_35
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1088
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fa37689fed50d4c8aee59e619c0aac
+      internalID: -2524456223735271869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31deab71b9490474e9336bb4eebf8468
+      internalID: 4242656865463821758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1088
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd0dd91dafd7e94b9342670509a3cf3
+      internalID: 8845882216479210491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee43396797ff050448a592044ce76e5f
+      internalID: 3016420339863908125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1088
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8fd5bcab5ac524c8e103e90380b8eb
+      internalID: -6731779007716791628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15097107dbfcc546b729c799150add7
+      internalID: 8550784681769838701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_41
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1088
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef54c4f37eecbdc4d84dfec348612f41
+      internalID: 4808204578765653004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_42
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1088
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f8328dc38920f4b8906e523fc51ba4
+      internalID: -2212069394308991265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_43
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1090
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753cb4bd833d8b746aa8eea6fd65bd4c
+      internalID: -4352975915307388698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_44
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1088
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308948f2df925bc4b98133ceb5ec1bd3
+      internalID: 1576563181019323178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_45
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1088
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fc7cf242e09494480075177fb62255
+      internalID: 3990828205878708742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_46
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1090
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acf6dbb12d6e5e41b4b9a141c7d0be5
+      internalID: 6304021932894957037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_47
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1088
+        width: 28
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e844d8515ba988c40a8aeb1b9ef9e703
+      internalID: 913984390495880538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1050
+        width: 32
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf72a8c0ecda924284e66916bd8465e
+      internalID: -7053849769588565008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1050
+        width: 32
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56b7e808c7d0cb49bfc1f056638a8f4
+      internalID: -3545055134186736615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1052
+        width: 32
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a266a6675928b634193f9853526db940
+      internalID: -6552811180444103437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1052
+        width: 32
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4b43473b2ba3d46bb865c2a4201af9
+      internalID: 804485493831451645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1050
+        width: 32
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51b175043c3c214e9bde62fc7247cf3
+      internalID: 433054417581768438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadora_inicio_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1050
+        width: 32
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3677501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8494d24445a7a874b9fa797728f87231
+      internalID: -5547925618675614306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4de42512fdf438d4bbf7b300b4cdf213
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jugadora_inicio_0: 684776329320479207
+      jugadora_inicio_1: 5770846742177204869
+      jugadora_inicio_10: -34620455720416074
+      jugadora_inicio_100: -8661181773754574032
+      jugadora_inicio_101: 1464326042393819794
+      jugadora_inicio_102: 32217334494467034
+      jugadora_inicio_103: 136328382043995742
+      jugadora_inicio_104: 2956173385325692544
+      jugadora_inicio_105: -194884400984773850
+      jugadora_inicio_106: 4242139953066814521
+      jugadora_inicio_107: 5860094288350869728
+      jugadora_inicio_108: -7770598187555197586
+      jugadora_inicio_109: -335742408955374516
+      jugadora_inicio_11: 7662043008465877939
+      jugadora_inicio_110: -3952286058426163822
+      jugadora_inicio_111: -639954206944396875
+      jugadora_inicio_112: 7785404664066655635
+      jugadora_inicio_113: 658665978548353295
+      jugadora_inicio_114: -2123321761211725222
+      jugadora_inicio_115: -7336592775954180416
+      jugadora_inicio_116: 637813384105611094
+      jugadora_inicio_117: -2606430701538370074
+      jugadora_inicio_118: -6019454589767394247
+      jugadora_inicio_119: -4591364492287064522
+      jugadora_inicio_12: 4894092727908421543
+      jugadora_inicio_120: -5426814338577203385
+      jugadora_inicio_121: 229539694687981116
+      jugadora_inicio_122: 5242895552387553430
+      jugadora_inicio_123: -6094354461876374033
+      jugadora_inicio_124: 4651244532298442666
+      jugadora_inicio_125: -4478825764807330065
+      jugadora_inicio_126: -6262856727749545938
+      jugadora_inicio_127: -1729060275018973062
+      jugadora_inicio_128: 612286066085527530
+      jugadora_inicio_129: -4644240666329037065
+      jugadora_inicio_13: 6922595201605142435
+      jugadora_inicio_130: -5171904878411271389
+      jugadora_inicio_131: 2995601600641191293
+      jugadora_inicio_132: -5822159206688217853
+      jugadora_inicio_133: 1601856688955325342
+      jugadora_inicio_134: -50894800646300281
+      jugadora_inicio_135: -2041112150243331301
+      jugadora_inicio_136: 4534218758115714597
+      jugadora_inicio_137: 7026304554184703447
+      jugadora_inicio_138: -7514094795792881326
+      jugadora_inicio_139: -3939472611730976886
+      jugadora_inicio_14: -8615356009698516156
+      jugadora_inicio_140: -4580541902928806675
+      jugadora_inicio_141: 6154210695446832701
+      jugadora_inicio_142: 6122650390050791846
+      jugadora_inicio_143: 8441926477505865151
+      jugadora_inicio_144: 7593871007328513819
+      jugadora_inicio_145: 7022301916407635581
+      jugadora_inicio_146: 3414904352280288532
+      jugadora_inicio_147: 5750604297507695902
+      jugadora_inicio_148: 591461555611993054
+      jugadora_inicio_149: -8734312599428677433
+      jugadora_inicio_15: 9103270158482436389
+      jugadora_inicio_150: -8336149467756719815
+      jugadora_inicio_151: -7342239062828240339
+      jugadora_inicio_152: -6860967457671049137
+      jugadora_inicio_153: -7563632108174323366
+      jugadora_inicio_154: -4555040981113298112
+      jugadora_inicio_155: -5892472469260575568
+      jugadora_inicio_156: -6701818946446335377
+      jugadora_inicio_157: -2573545429952033493
+      jugadora_inicio_158: -3495293936210507332
+      jugadora_inicio_159: 8145122685435324671
+      jugadora_inicio_16: -4124525436063942776
+      jugadora_inicio_160: -828994341007569258
+      jugadora_inicio_161: -1878224707955907820
+      jugadora_inicio_162: -2725998634042230085
+      jugadora_inicio_163: -8183862469079332717
+      jugadora_inicio_164: 1340165044727819153
+      jugadora_inicio_165: -8634353932524952457
+      jugadora_inicio_166: 3230321338816734480
+      jugadora_inicio_167: 3546066022230604209
+      jugadora_inicio_168: 1255721618931725715
+      jugadora_inicio_169: -4585757484410313821
+      jugadora_inicio_17: 1518888616160589631
+      jugadora_inicio_170: -241562086939428248
+      jugadora_inicio_171: -9163881895327560943
+      jugadora_inicio_172: 2547203906736864902
+      jugadora_inicio_173: -1777856365076463938
+      jugadora_inicio_174: -4985422399567196796
+      jugadora_inicio_175: 7262630434929998474
+      jugadora_inicio_176: -7938790535182954712
+      jugadora_inicio_177: 5564992061531837377
+      jugadora_inicio_178: -5888745174531792675
+      jugadora_inicio_179: -7246016719702710511
+      jugadora_inicio_18: 8379600169066724876
+      jugadora_inicio_180: -8098176006054805015
+      jugadora_inicio_181: 3440573658106108605
+      jugadora_inicio_182: -2753943308519380224
+      jugadora_inicio_183: 4336067846308859616
+      jugadora_inicio_184: -4461234691010142151
+      jugadora_inicio_185: 8016313783160871933
+      jugadora_inicio_186: 4118404333709196263
+      jugadora_inicio_187: -7838149575143569104
+      jugadora_inicio_188: -6961364782453612056
+      jugadora_inicio_189: -2912574054807369280
+      jugadora_inicio_19: -5480515165938213008
+      jugadora_inicio_190: 5726862889882908165
+      jugadora_inicio_191: -6816150002097088959
+      jugadora_inicio_192: 8146156489281204543
+      jugadora_inicio_193: -3069561086782090563
+      jugadora_inicio_194: 3371059966351076247
+      jugadora_inicio_195: 7502084009718358739
+      jugadora_inicio_196: -8185400663592380297
+      jugadora_inicio_197: -214485948439629358
+      jugadora_inicio_198: -6064390477544310381
+      jugadora_inicio_199: -401095501846017375
+      jugadora_inicio_2: -1515634539987329542
+      jugadora_inicio_20: 2149826196109170508
+      jugadora_inicio_200: -7664327095950580870
+      jugadora_inicio_201: 1906258395620371808
+      jugadora_inicio_202: -3415587750870792379
+      jugadora_inicio_203: -3153680754590178745
+      jugadora_inicio_204: 5919169630790801039
+      jugadora_inicio_205: 4967984168603847114
+      jugadora_inicio_206: -6492098523041494459
+      jugadora_inicio_207: 5289403898295397200
+      jugadora_inicio_208: 8497836787143963723
+      jugadora_inicio_209: -2347634956053064580
+      jugadora_inicio_21: 6568348345810146555
+      jugadora_inicio_210: -3533485965539989269
+      jugadora_inicio_211: -7955192334264245504
+      jugadora_inicio_212: -243949286679918572
+      jugadora_inicio_213: 6667400873426125234
+      jugadora_inicio_214: -2092500603243783723
+      jugadora_inicio_215: 1583777427779464817
+      jugadora_inicio_216: 204832509579359447
+      jugadora_inicio_217: 9185724458696240384
+      jugadora_inicio_218: -3235931926637818116
+      jugadora_inicio_219: 5056851543073959765
+      jugadora_inicio_22: 3620585440322132070
+      jugadora_inicio_220: 6661713232895179541
+      jugadora_inicio_221: 2353678461231126887
+      jugadora_inicio_222: -2346795757680203433
+      jugadora_inicio_223: 8336919242363498845
+      jugadora_inicio_224: -2790674684449354009
+      jugadora_inicio_225: 2840091683670451667
+      jugadora_inicio_226: 615374511238688473
+      jugadora_inicio_227: -1611062194927141875
+      jugadora_inicio_228: -2320046545913620546
+      jugadora_inicio_229: 2301857747004003608
+      jugadora_inicio_23: 5410764985047679614
+      jugadora_inicio_230: 4706325340935645802
+      jugadora_inicio_231: -4414475255607504159
+      jugadora_inicio_232: 7850950550588702764
+      jugadora_inicio_233: -7719893951644243873
+      jugadora_inicio_234: -7841318964401023595
+      jugadora_inicio_235: -521075675392043713
+      jugadora_inicio_236: 2613029180730651654
+      jugadora_inicio_237: -1701838148689795588
+      jugadora_inicio_238: 1384471641308841981
+      jugadora_inicio_239: 7198215578129908819
+      jugadora_inicio_24: -8320243083517107712
+      jugadora_inicio_240: 836694384440827950
+      jugadora_inicio_241: -7405246904769325361
+      jugadora_inicio_242: 4907016422143560111
+      jugadora_inicio_243: -5256858681197474193
+      jugadora_inicio_244: 8204541838592702668
+      jugadora_inicio_245: 355099838289587079
+      jugadora_inicio_246: 7909713973177323740
+      jugadora_inicio_247: 3701907412213244166
+      jugadora_inicio_248: 2135449796118662443
+      jugadora_inicio_249: -7916845930420957920
+      jugadora_inicio_25: 1283890215237606585
+      jugadora_inicio_250: 5291893630392429252
+      jugadora_inicio_251: -7090319228655720882
+      jugadora_inicio_252: 5939161899835651692
+      jugadora_inicio_253: -3619410811577479295
+      jugadora_inicio_254: 8189235856216890110
+      jugadora_inicio_255: -8051979642138660928
+      jugadora_inicio_256: -1212173889231726148
+      jugadora_inicio_257: -440465078365450555
+      jugadora_inicio_258: -1169086276366066994
+      jugadora_inicio_259: -7401124726323559454
+      jugadora_inicio_26: 5013534662600382474
+      jugadora_inicio_260: -1218999780210673107
+      jugadora_inicio_261: -4377591974058666562
+      jugadora_inicio_262: 4255513478272860886
+      jugadora_inicio_263: -7917665240149860347
+      jugadora_inicio_264: -3397878152777805400
+      jugadora_inicio_265: 1896884700872397875
+      jugadora_inicio_266: 3168566446138451926
+      jugadora_inicio_267: -2149057976620694928
+      jugadora_inicio_268: -205336157135741499
+      jugadora_inicio_269: 5183945965177818285
+      jugadora_inicio_27: 884381818075079282
+      jugadora_inicio_270: 287606202268029374
+      jugadora_inicio_271: -4182793683715467963
+      jugadora_inicio_272: 3836577826023542554
+      jugadora_inicio_273: -3410376523755452275
+      jugadora_inicio_274: -3340141135453516182
+      jugadora_inicio_275: -6363621683134399837
+      jugadora_inicio_276: 5632873894565144181
+      jugadora_inicio_277: -5140580779198072261
+      jugadora_inicio_278: 5935868663839744034
+      jugadora_inicio_279: 4609754308672397456
+      jugadora_inicio_28: -6395468071929408366
+      jugadora_inicio_280: 2336116406635832004
+      jugadora_inicio_281: -4853047296380622648
+      jugadora_inicio_282: -2558662433698839224
+      jugadora_inicio_283: 2209960495215867646
+      jugadora_inicio_284: 6612538689387639214
+      jugadora_inicio_285: -402066452016341757
+      jugadora_inicio_286: -6911791520179014909
+      jugadora_inicio_287: 7784424640113008811
+      jugadora_inicio_288: 2757591101065124888
+      jugadora_inicio_289: -7998585805732234056
+      jugadora_inicio_29: 2321599200463507674
+      jugadora_inicio_290: 8058577620036534976
+      jugadora_inicio_291: 5623518147522095577
+      jugadora_inicio_292: 4460375640172392849
+      jugadora_inicio_293: 5493036593554358914
+      jugadora_inicio_294: 1110953095525548619
+      jugadora_inicio_295: -7827317337309492170
+      jugadora_inicio_296: 2444761624376990434
+      jugadora_inicio_297: -7455622367899905934
+      jugadora_inicio_298: -2026776527827108455
+      jugadora_inicio_299: -8320227302336403359
+      jugadora_inicio_3: -3164292516253340956
+      jugadora_inicio_30: 2384739648057645495
+      jugadora_inicio_300: -7874849830103289060
+      jugadora_inicio_301: 4717698122780668683
+      jugadora_inicio_302: -8691490662751554873
+      jugadora_inicio_303: 7173837078703863758
+      jugadora_inicio_304: -678110096041137247
+      jugadora_inicio_305: 1835111796673308169
+      jugadora_inicio_306: 1280832225271544690
+      jugadora_inicio_307: 6390907881138293248
+      jugadora_inicio_308: 328912261490660406
+      jugadora_inicio_309: -5486609278295750803
+      jugadora_inicio_31: 3642002969875319542
+      jugadora_inicio_310: -3123159882462159751
+      jugadora_inicio_311: -7749102749350581438
+      jugadora_inicio_312: -7058505945606043915
+      jugadora_inicio_313: -7094775033027468968
+      jugadora_inicio_314: -2106347556608409975
+      jugadora_inicio_315: -8021327232604780579
+      jugadora_inicio_316: 3962068852328487220
+      jugadora_inicio_317: 8162697530219936024
+      jugadora_inicio_318: 6512137843112924442
+      jugadora_inicio_319: -2042840097
+      jugadora_inicio_32: 7849051133283856776
+      jugadora_inicio_320: 40334598
+      jugadora_inicio_321: -817980598
+      jugadora_inicio_322: 1081436225
+      jugadora_inicio_323: -1098996360
+      jugadora_inicio_324: 159312381
+      jugadora_inicio_325: 1609101677
+      jugadora_inicio_326: 1141717684
+      jugadora_inicio_327: -1703178182
+      jugadora_inicio_328: 985662223
+      jugadora_inicio_329: 1550760770
+      jugadora_inicio_33: -299169584611809795
+      jugadora_inicio_330: 1572136133
+      jugadora_inicio_331: 1597436836
+      jugadora_inicio_332: -1541966262
+      jugadora_inicio_333: 1793284790
+      jugadora_inicio_334: 1970550599
+      jugadora_inicio_34: -3295207398273357723
+      jugadora_inicio_35: -2524456223735271869
+      jugadora_inicio_36: 4242656865463821758
+      jugadora_inicio_37: 8845882216479210491
+      jugadora_inicio_38: 3016420339863908125
+      jugadora_inicio_39: -6731779007716791628
+      jugadora_inicio_4: -5526533078209099601
+      jugadora_inicio_40: 8550784681769838701
+      jugadora_inicio_41: 4808204578765653004
+      jugadora_inicio_42: -2212069394308991265
+      jugadora_inicio_43: -4352975915307388698
+      jugadora_inicio_44: 1576563181019323178
+      jugadora_inicio_45: 3990828205878708742
+      jugadora_inicio_46: 6304021932894957037
+      jugadora_inicio_47: 913984390495880538
+      jugadora_inicio_48: -7053849769588565008
+      jugadora_inicio_49: -3545055134186736615
+      jugadora_inicio_5: -3646594348093235998
+      jugadora_inicio_50: -6552811180444103437
+      jugadora_inicio_51: 804485493831451645
+      jugadora_inicio_52: 433054417581768438
+      jugadora_inicio_53: -5547925618675614306
+      jugadora_inicio_54: -1315374241172339909
+      jugadora_inicio_55: -6258279889952587829
+      jugadora_inicio_56: -7152246691617476533
+      jugadora_inicio_57: 1082814962136420389
+      jugadora_inicio_58: -5824447229089885288
+      jugadora_inicio_59: 3305394687350424062
+      jugadora_inicio_6: -3663561945649577411
+      jugadora_inicio_60: -6137957782233333322
+      jugadora_inicio_61: -9202670557040720488
+      jugadora_inicio_62: -5721108595214026160
+      jugadora_inicio_63: 313382857239088946
+      jugadora_inicio_64: -5572927033339133952
+      jugadora_inicio_65: -5466096122162498035
+      jugadora_inicio_66: -4294638513704437116
+      jugadora_inicio_67: -5149793293082430745
+      jugadora_inicio_68: -5637539436693806777
+      jugadora_inicio_69: -429274081931789122
+      jugadora_inicio_7: -3646321479371088030
+      jugadora_inicio_70: 4038414389081330361
+      jugadora_inicio_71: 5378142931988196730
+      jugadora_inicio_72: 2533485520917984558
+      jugadora_inicio_73: -3621508842263850482
+      jugadora_inicio_74: 6297246063266831607
+      jugadora_inicio_75: -3915369064356704204
+      jugadora_inicio_76: -2149292401841208716
+      jugadora_inicio_77: 2608831826103425468
+      jugadora_inicio_78: 7318283380965583401
+      jugadora_inicio_79: 7815389790820266035
+      jugadora_inicio_8: -7515135379648939710
+      jugadora_inicio_80: 7121189424078944533
+      jugadora_inicio_81: -3171779303146394093
+      jugadora_inicio_82: -2771175416048747441
+      jugadora_inicio_83: 5400697325750278248
+      jugadora_inicio_84: -8897202788191233094
+      jugadora_inicio_85: -9082376643267301954
+      jugadora_inicio_86: -6952783079519274668
+      jugadora_inicio_87: -6211188018525514719
+      jugadora_inicio_88: 6988900323912840022
+      jugadora_inicio_89: -7448641327206260048
+      jugadora_inicio_9: -8021952715048617542
+      jugadora_inicio_90: -2912284361969896127
+      jugadora_inicio_91: -753652828256855732
+      jugadora_inicio_92: 6331928879876000980
+      jugadora_inicio_93: -4757009570958580473
+      jugadora_inicio_94: 1265209427531586611
+      jugadora_inicio_95: -6047072700580948878
+      jugadora_inicio_96: -1941103704508537095
+      jugadora_inicio_97: -3651582934123964514
+      jugadora_inicio_98: 2275224622552948208
+      jugadora_inicio_99: 7801111208769568071
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

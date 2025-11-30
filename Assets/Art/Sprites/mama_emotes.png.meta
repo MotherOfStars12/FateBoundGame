@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: e38f16cf46c73164b84629ee356b7f2c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8245615308429095050
+    second: mama_emotes_0
+  - first:
+      213: 1640579957187130924
+    second: mama_emotes_1
+  - first:
+      213: 4875494647274533155
+    second: mama_emotes_2
+  - first:
+      213: -2484988199335340211
+    second: mama_emotes_3
+  - first:
+      213: 8922683401958790863
+    second: mama_emotes_4
+  - first:
+      213: -3538235221170385415
+    second: mama_emotes_5
+  - first:
+      213: -6664662766927557402
+    second: mama_emotes_6
+  - first:
+      213: 2525952077922005659
+    second: mama_emotes_7
+  - first:
+      213: 3117140039583934669
+    second: mama_emotes_8
+  - first:
+      213: -3691769111721377558
+    second: mama_emotes_9
+  - first:
+      213: -4074847968265554754
+    second: mama_emotes_10
+  - first:
+      213: 2025235174043922701
+    second: mama_emotes_11
+  - first:
+      213: 1957555210992397259
+    second: mama_emotes_12
+  - first:
+      213: 8059059355492061222
+    second: mama_emotes_13
+  - first:
+      213: 2949655946379969905
+    second: mama_emotes_14
+  - first:
+      213: -5299733460101606386
+    second: mama_emotes_15
+  - first:
+      213: 8935447974973886311
+    second: mama_emotes_16
+  - first:
+      213: 2804443307146690208
+    second: mama_emotes_17
+  - first:
+      213: -7473927951490544789
+    second: mama_emotes_18
+  - first:
+      213: 6493338297628322657
+    second: mama_emotes_19
+  - first:
+      213: 479114378505542967
+    second: mama_emotes_20
+  - first:
+      213: -6008083854379910633
+    second: mama_emotes_21
+  - first:
+      213: 6507385562112310120
+    second: mama_emotes_22
+  - first:
+      213: -1210402858403669579
+    second: mama_emotes_23
+  - first:
+      213: 7846974029142924117
+    second: mama_emotes_24
+  - first:
+      213: -1827137338714096454
+    second: mama_emotes_25
+  - first:
+      213: 1937362436133651820
+    second: mama_emotes_26
+  - first:
+      213: -6539353245773629235
+    second: mama_emotes_27
+  - first:
+      213: -3819126349907037808
+    second: mama_emotes_28
+  - first:
+      213: -2003678287395990943
+    second: mama_emotes_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mama_emotes_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91c8b348e66f5b418988d38b24d1aae
+      internalID: -8245615308429095050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mama_emotes_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba36d96f3c8abf4c89f9b083eca13a6
+      internalID: 1640579957187130924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mama_emotes_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 146
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685e118b54bd2a740af436b99fd26676
+      internalID: 4875494647274533155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mama_emotes_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cea07fe88635014db99056b10d0dca5
+      internalID: -2484988199335340211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mama_emotes_4
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820b82f65f837b444930299316a4940d
+      internalID: 8922683401958790863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mama_emotes_5
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b97022f0ebfc64a8ebe4000681e516
+      internalID: -3538235221170385415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mama_emotes_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a3d552bb644ec4d92503fad84770a4
+      internalID: -6664662766927557402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mama_emotes_7
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fcd2caa696cfb4083553ccaba845e3
+      internalID: 2525952077922005659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mama_emotes_8
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61057d2f0af2bc4eb8cbbf9e2c2d5f2
+      internalID: 3117140039583934669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mama_emotes_9
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910bbe505801c154b9bf5b145517db10
+      internalID: -3691769111721377558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ae1ffe61eea086644b143554c2ce2f57
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mama_emotes_0: -8245615308429095050
+      mama_emotes_1: 1640579957187130924
+      mama_emotes_10: -4074847968265554754
+      mama_emotes_11: 2025235174043922701
+      mama_emotes_12: 1957555210992397259
+      mama_emotes_13: 8059059355492061222
+      mama_emotes_14: 2949655946379969905
+      mama_emotes_15: -5299733460101606386
+      mama_emotes_16: 8935447974973886311
+      mama_emotes_17: 2804443307146690208
+      mama_emotes_18: -7473927951490544789
+      mama_emotes_19: 6493338297628322657
+      mama_emotes_2: 4875494647274533155
+      mama_emotes_20: 479114378505542967
+      mama_emotes_21: -6008083854379910633
+      mama_emotes_22: 6507385562112310120
+      mama_emotes_23: -1210402858403669579
+      mama_emotes_24: 7846974029142924117
+      mama_emotes_25: -1827137338714096454
+      mama_emotes_26: 1937362436133651820
+      mama_emotes_27: -6539353245773629235
+      mama_emotes_28: -3819126349907037808
+      mama_emotes_29: -2003678287395990943
+      mama_emotes_3: -2484988199335340211
+      mama_emotes_4: 8922683401958790863
+      mama_emotes_5: -3538235221170385415
+      mama_emotes_6: -6664662766927557402
+      mama_emotes_7: 2525952077922005659
+      mama_emotes_8: 3117140039583934669
+      mama_emotes_9: -3691769111721377558
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
